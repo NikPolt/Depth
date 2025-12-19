@@ -1,17 +1,17 @@
 # Description of Special labels in character creation screen
-special-character-creation-description-strength = Modifies your Melee damage
-special-character-creation-description-perception = Modifies your shooting accuracy
-special-character-creation-description-endurance = Modifies your HP
-special-character-creation-description-charisma = Gives you accent if below 3
-special-character-creation-description-intelligence = Modifies medicine
-special-character-creation-description-agility = Agility
-special-character-creation-description-luck = Gives you 1% chance to pass bullet
+special-character-creation-description-strength = Повышает урон в ближнем бою
+special-character-creation-description-perception = Повышает меткость стрельбы
+special-character-creation-description-endurance = Повышает количество здоровья
+special-character-creation-description-charisma = При показателе меньше 3 меняет акцент
+special-character-creation-description-intelligence = Повышает уровень медицины
+special-character-creation-description-agility = Повышает ловкость
+special-character-creation-description-luck = Даёт 1% вероятности увернуться от пули
 
 # Title of Special labels in character creation screen
-special-character-creation-strength = Strength
-special-character-creation-perception = Perception
-special-character-creation-endurance = Endurance
-special-character-creation-charisma = Charisma
-special-character-creation-intelligence = Intelligence
-special-character-creation-agility = Agility
-special-character-creation-luck = Luck
+special-character-creation-strength = Сила
+special-character-creation-perception = Восприятие
+special-character-creation-endurance = Выносливость
+special-character-creation-charisma = Харизма
+special-character-creation-intelligence = Интеллект
+special-character-creation-agility = Ловкость
+special-character-creation-luck = Удача

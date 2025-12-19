@@ -1,18 +1,18 @@
-weather-announcement = The weather is changing.
-weather-ashfall = Ashfall is approaching.
-weather-ashfall-light = Ashfall is approaching.
-weather-ashfall-heavy = Heavy ashfall is approaching.
-weather-default = The weather is clearing up.
-weather-fallout = Fallout is approaching.
-weather-hail = Hail is approaching.
-weather-rain = Rain is approaching.
-weather-sandstorm = Sandstorm is approaching.
-weather-sandstorm-heavy = Sandstorm is approaching.
-weather-snowfall-light = Snowfall is approaching.
-weather-snowfall-medium = Snowfall is approaching.
-weather-snowfall-heavy = Heavy snowfall is approaching.
-weather-storm = Storm is approaching.
-
-
-weather-sandstorm-extreme = Extreme sandstorm is approaching.
-weather-snowfall-extreme = Extreme snowfall is approaching.
+weather-announcement = Погода меняется.
+weather-ashfall = Надвигается пеплопад.
+weather-ashfall-light = Надвигается лёгкий пеплопад.
+weather-ashfall-heavy = Надвигается сильный пеплопад.
+weather-default = Погода проясняется.
+weather-fallout = Надвигаются радиоактивные осадки.
+weather-hail = Надвигается град.
+weather-rain = Надвигается дождь.
+weather-sandstorm = Надвигается песчаная буря.
+weather-sandstorm-heavy = Надвигается сильная песчаная буря.
+weather-snowfall-light = Надвигается лёгкий снегопад.
+weather-snowfall-medium = Надвигается снегопад.
+weather-snowfall-heavy = Надвигается сильный снегопад.
+weather-storm = Надвигается шторм.
+weather-sandstorm-extreme = Надвигается экстремальная песчаная буря.
+weather-snowfall-extreme = Надвигается экстремальный снегопад.
+weather-radioactive-particles = Надвигаются радиоактивные осадки. [color=red]Внимание найдите укрытие![/color]
+weather-radioactive-rain = Надвигается радиоактивный дождь. [color=red]Внимание найдите укрытие![/color]

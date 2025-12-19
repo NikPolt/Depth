@@ -1,150 +1,129 @@
-## Job
-character-job-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be one of these roles: {$jobs}
+character-age-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } в возрасте от [color=yellow]{ $min }[/color] до [color=yellow]{ $max }[/color] лет
+character-species-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } [color=green]{ $species }[/color]
+character-trait-requirement =
+    Вам { $inverted ->
+        [true] не следует иметь
+       *[other] следует иметь
+} одну из черт: [color=lightblue]{$traits}[/color]
+character-backpack-type-requirement =
+    Вам { $inverted ->
+        [true] не следует использовать
+       *[other] следует использовать
+    } [color=lightblue]{ $type }[/color] в качестве вашей сумки
+character-clothing-preference-requirement =
+    Вам { $inverted ->
+        [true] не следует носить
+       *[other] следует носить
+    } [color=lightblue]{ $type }[/color]
+character-job-requirement =
+    Вы должны { $inverted ->
+        [true] не быть
+       *[other] быть
+    } одним из этих профессий: { $jobs }
+character-department-requirement =
+    Вы должны { $inverted ->
+        [true] не быть
+       *[other] быть
+    } в одном из этих отделов: { $departments }
+character-timer-department-insufficient = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут дополнительно в отделе [color={ $departmentColor }]{ $department }[/color]
+character-timer-department-too-high = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут меньше в отделе [color={ $departmentColor }]{ $department }[/color]
+character-timer-overall-insufficient = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут дополнительно общего времени игры
+character-timer-overall-too-high = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут меньше общего времени игры
+character-timer-role-insufficient = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут дополнительно в роли [color={ $departmentColor }]{ $job }[/color]
+character-timer-role-too-high = Вам необходимо [color=yellow]{ TOSTRING($time, "0") }[/color] минут меньше в роли [color={ $departmentColor }]{ $job }[/color]
+character-trait-group-exclusion-requirement = Вы не можете выбрать это, если у вас есть одна из следующих черт: { $traits }
+character-loadout-group-exclusion-requirement = Вы не можете выбрать это, если у вас есть один из следующих наборов снаряжения: { $loadouts }
+character-gender-requirement =
+    Вам { $inverted ->
+        [true] не следует иметь
+       *[other] следует иметь
+    } местоимения [color=white]{$gender}[/color]
 
-character-department-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be in one of these factions: {$departments}
+character-sex-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } [color=white]{$sex ->
+        [None] без пола
+       *[other] {$sex}
+    }[/color]
 
-character-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] faction playtime
-character-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] faction
+character-height-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } таким по росту, что:
+    – если указан только максимум, то короче [color={$color}]{$max}[/color] см;
+    – если указан только минимум, то выше [color={$color}]{$min}[/color] см;
+    – если заданы и минимум, и максимум, то между [color={$color}]{$min}[/color] и [color={$color}]{$max}[/color] см.
 
-character-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime
-character-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime
+character-width-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } таким по ширине, что:
+    – если указан только максимум, то стройнее (тоньше) чем [color={$color}]{$max}[/color] см;
+    – если указан только минимум, то шире чем [color={$color}]{$min}[/color] см;
+    – если заданы и минимум, и максимум, то между [color={$color}]{$min}[/color] и [color={$color}]{$max}[/color] см.
 
-character-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color]
-character-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color]
+character-weight-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } таким по весу, что:
+    – если указан только максимум, то легче, чем [color={$color}]{$max}[/color] кг;
+    – если указан только минимум, то тяжелее, чем [color={$color}]{$min}[/color] кг;
+    – если заданы и минимум, и максимум, то между [color={$color}]{$min}[/color] и [color={$color}]{$max}[/color] кг.
 
+character-loadout-requirement =
+    Вам { $inverted ->
+        [true] не следует иметь
+       *[other] следует иметь
+    } один из следующих наборов снаряжения: {$loadouts}
 
-## Logic
-character-logic-and-requirement-listprefix = {""}
-    {$indent}[color=gray]&[/color]{" "}
-character-logic-and-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} fit [color=red]all[/color] of [color=gray]these[/color]: {$options}
+character-item-group-requirement =
+    Вам { $inverted ->
+        [true] следует иметь {$max} или более
+       *[other] следует иметь {$max} или меньше
+    } предметов из группы [color=white]{$group}[/color]
 
-character-logic-or-requirement-listprefix = {""}
-    {$indent}[color=white]O[/color]{" "}
-character-logic-or-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} fit [color=red]at least one[/color] of [color=white]these[/color]: {$options}
+character-logic-and-requirement-listprefix = {$indent}[color=gray]&[/color]{ " " }
 
-character-logic-xor-requirement-listprefix = {""}
-    {$indent}[color=white]X[/color]{" "}
-character-logic-xor-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} fit [color=red]only one[/color] of [color=white]these[/color]: {$options}
+character-logic-and-requirement =
+    Вам { $inverted ->
+        [true] не следует подходить
+       *[other] следует подходить
+    } под все следующие требования: {$options}
 
+character-logic-or-requirement-listprefix = {$indent}[color=white]O[/color]{ " " }
 
-## Profile
-character-age-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be within [color=yellow]{$min}[/color] and [color=yellow]{$max}[/color] years old
+character-logic-or-requirement =
+    Вам { $inverted ->
+        [true] не следует подходить
+       *[other] следует подходить
+    } под хотя бы одно из следующих требований: {$options}
 
-character-backpack-type-requirement = You must {$inverted ->
-    [true] not use
-    *[other] use
-} a [color=brown]{$type}[/color] as your bag
+character-logic-xor-requirement-listprefix = {$indent}[color=white]X[/color]{ " " }
 
-character-clothing-preference-requirement = You must {$inverted ->
-    [true] not wear
-    *[other] wear
-} a [color=white]{$type}[/color]
+character-logic-xor-requirement =
+    Вам { $inverted ->
+        [true] не следует подходить
+       *[other] следует подходить
+    } ровно под одно из следующих требований: {$options}
 
-character-gender-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} the pronouns [color=white]{$gender}[/color]
+character-whitelist-requirement =
+    Вам { $inverted ->
+        [true] не следует быть
+       *[other] следует быть
+    } включённым в белый список
 
-character-sex-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be [color=white]{$sex ->
-    [None] unsexed
-    *[other] {$sex}
-}[/color]
-character-species-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be a {$species}
-
-character-height-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be {$min ->
-    [-2147483648]{$max ->
-        [2147483648]{""}
-        *[other] shorter than [color={$color}]{$max}[/color]cm
-    }
-    *[other]{$max ->
-        [2147483648] taller than [color={$color}]{$min}[/color]cm
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]cm tall
-    }
-}
-
-character-width-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be {$min ->
-    [-2147483648]{$max ->
-        [2147483648]{""}
-        *[other] skinnier than [color={$color}]{$max}[/color]cm
-    }
-    *[other]{$max ->
-        [2147483648] wider than [color={$color}]{$min}[/color]cm
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]cm wide
-    }
-}
-
-character-weight-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be {$min ->
-    [-2147483648]{$max ->
-        [2147483648]{""}
-        *[other] lighter than [color={$color}]{$max}[/color]kg
-    }
-    *[other]{$max ->
-        [2147483648] heavier than [color={$color}]{$min}[/color]kg
-        *[other] between [color={$color}]{$min}[/color] and [color={$color}]{$max}[/color]kg
-    }
-}
-
-
-character-trait-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these perks: {$traits}
-
-character-loadout-requirement = You must {$inverted ->
-    [true] not have
-    *[other] have
-} one of these loadouts: {$loadouts}
-
-
-character-item-group-requirement = You must {$inverted ->
-    [true] have {$max} or more
-    *[other] have {$max} or less
-} items from the group [color=white]{$group}[/color]
-
-
-## Whitelist
-character-whitelist-requirement = You must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} be whitelisted
-
-## CVar
-
-character-cvar-requirement = 
-    The server must{$inverted ->
-    [true]{" "}not
-    *[other]{""}
-} have [color={$color}]{$cvar}[/color] set to [color={$color}]{$value}[/color].
+character-minPlayers-requirement = Данная роль доступна только от {$min} человек в сети.
+character-sponsor-requirement = Необходимый уровень поддержки сервера для разблокировки: {$level}

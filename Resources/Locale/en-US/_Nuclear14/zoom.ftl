@@ -1,2 +1,2 @@
-action-toggle-camera-follow-name = Toggle Camera Follow
-action-toggle-camera-follow-description = Toggle camera to follow the cursor.
+action-toggle-camera-follow-name = Активировать прицел.
+action-toggle-camera-follow-description = Увеличивает дальность прицеливания.

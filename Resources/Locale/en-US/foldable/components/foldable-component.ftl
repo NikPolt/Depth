@@ -1,14 +1,8 @@
 # Foldable
 
-foldable-deploy-fail = You can't deploy the {$object} here.
-fold-verb = Fold
-unfold-verb = Unfold
-
-# Hat
-fold-flip-verb = Flip
-# Coat
-fold-zip-verb = Zip up
-fold-unzip-verb = Unzip
-# Jumpsuits
-fold-rollsleeves-verb = roll sleeves up
-fold-unrollsleeves-verb = roll sleeves down
+foldable-deploy-fail = Вы не можете разложить { $object } здесь.
+fold-verb = Сложить
+unfold-verb = Разложить
+fold-flip-verb = Перевернуть
+fold-zip-verb = Застегнуть
+fold-unzip-verb = Расстегнуть

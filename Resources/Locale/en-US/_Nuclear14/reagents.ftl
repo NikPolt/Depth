@@ -1,350 +1,291 @@
 # Foods
-reagent-name-uncooked-animal-proteins-rad = uncooked animal proteins
-reagent-desc-uncooked-animal-proteins-rad = Might give you food poisoning.
-
-reagent-name-rad-particle-food = radioactive contamination
-reagent-desc-rad-particle-food = Too much will make you sick of living.
-
-# Preserves
-reagent-name-agavejam = agave jam
-reagent-desc-agavejam = Agave Jam. What a flavor...
-reagent-name-blackberryjam = blackberry jam
-reagent-desc-blackberryjam = Blackberry Jam. Needs some toast.
-reagent-name-brocjam = broc jam
-reagent-desc-brocjam = Broc Jam. Seems healthy.
-reagent-name-cactusjam = cactus jam
-reagent-desc-cactusjam = Cactus Jam. Needs some toast.
-reagent-name-multifruitjam = multifruit jam
-reagent-desc-multifruitjam = Multifruit Jam. Very Delicious.
-reagent-name-pricklypearjam = pricklypear jam
-reagent-desc-pricklypearjam = Prickly Pear Jam. Has a nice refreshing feeling.
-reagent-name-starlightjam = starlight jam
-reagent-desc-starlightjam = Starlight Jam. The color is quite bright.
-reagent-name-tarberryjam = tarberry jam
-reagent-desc-tarberryjam = Tarberry Jam. Gives you a strange feeling.
-reagent-name-pickledcabbage = pickled cabbage
-reagent-desc-pickledcabbage = Pickled Cabbage. Has a nice crunch.
-reagent-name-pickledcarrots = pickled carrots
-reagent-desc-pickledcarrots = Pickled Carrots. Has a nice crunch.
-reagent-name-pickledcorn = pickled corn
-reagent-desc-pickledcorn = Pickled Corn. An interesting way to eat corn.
-reagent-name-pickledjalapenos = pickled jalapenos
-reagent-desc-pickledjalapenos = Pickled Jalapenos. Perfect amount of spice.
-reagent-name-pickledonions = pickled onions
-reagent-desc-pickledonions = Pickled Onions. Finely aged onions.
-
+reagent-name-uncooked-animal-proteins-rad = сырой животный белок
+reagent-desc-uncooked-animal-proteins-rad = Может вызвать отравление.
+reagent-name-rad-particle-food = радиоактивное загрязнение
+reagent-desc-rad-particle-food = Большое количество вызовет строгое желание умереть.
 # Drinks
-reagent-name-water-dirty = dirty water
-reagent-desc-water-dirty = Looks murky.
-reagent-name-water-irradiated = irradiated water
-reagent-desc-water-irradiated = That'll put arms on your chest.
-reagent-name-water-filtered = filtered water
-reagent-desc-water-filtered = almost as good as it gets.
-reagent-name-water-salt = salt water
-reagent-desc-water-salt = salty water. Maybe I can boil it for salt.
+reagent-name-water-dirty = грязная вода
+reagent-desc-water-dirty = Выглядит мрачновато.
+reagent-name-water-irradiated = радиоактивная вода
+reagent-desc-water-irradiated = Имеет побочные эффекты в виде отрастания лишних конечностей.
+reagent-name-water-filtered = фильтрованная вода
+reagent-desc-water-filtered = Лучшее из того, чего вы можете добиться.
+reagent-name-water-salt = солёная вода
+reagent-desc-water-salt = Солёная вода. Подойдёт для выварки соли.
 
 ## Soda
-reagent-name-nuka-cola = Nuka-Cola
-reagent-desc-nuka-cola = A refreshing beverage that has a extremely sugary taste. Reminds you of vanilla and cinnamon.
-reagent-name-irradiated-nuka-cola = irradiated Nuka-Cola
-reagent-desc-irradiated-nuka-cola = An unrefreshing beverage that has a extremely sugary taste. The aftertaste is bitter and burnt.
-reagent-name-nuka-cola-quantum = Nuka-Cola Quantum
-reagent-desc-nuka-cola-quantum = An explosion of sugar and tastes! You can taste various berry flavours.. And a lot of sugar!
-reagent-name-nuka-cola-clear = Nuka-Cola Clear
-reagent-desc-nuka-cola-clear = A fresh take on Nuka Cola, an invigorating twist of lemon and lime flavors.. And a ton of sugar of course!
-reagent-name-nuka-cola-cherry = Nuka-Cola Cherry
-reagent-desc-nuka-cola-cherry = Typical Nuka Cola taste, but with a twist! You can taste cherries and syrup! It tingles the tongue..
-reagent-name-nuka-cola-grape = Nuka-Cola Grape
-reagent-desc-nuka-cola-grape = Typical Nuka Cola taste, but with a twist! You can taste grapes and syrup! It tingles the tongue..
-reagent-name-nuka-cola-orange = Nuka-Cola Orange
-reagent-desc-nuka-cola-orange = Typical Nuka Cola taste, but with a twist! You can taste oranges and syrup! It tingles the tongue..
-reagent-name-nuka-cola-victory = Nuka-Cola Victory
-reagent-desc-nuka-cola-victory = A mixture of vanilla, cinnamon, dashes of cream, and a bit of spice.. It tingles the tongue.
-reagent-name-nuka-cola-yellow = Nuka-Cola Yellow
-reagent-desc-nuka-cola-yellow = You're ensure of what this tastes, or smells like. You feel like you shouldn't be drinking this.
-reagent-name-nuka-cola-quartz = Nuka-Cola Quartz
-reagent-desc-nuka-cola-quartz = Minty, fresh, extra fizzy.. This soda is a blast to the mouth with freshness.
-reagent-name-nuka-cola-wild = Nuka-Cola Wild
-reagent-desc-nuka-cola-wild = Creamy, heavy, spicy, good ol' fashioned root beer-like taste.. It tingles the tongue.
-reagent-name-vim = Vim
-reagent-desc-vim = Vim
-reagent-name-vim-captainsblend = Vim Captains Blend
-reagent-desc-vim-captainsblend = Vim Captains Blend
-reagent-name-vim-refresh = Vim Refresh
-reagent-desc-vim-refresh = Vim Refresh
-reagent-name-vim-quartz = Vim Quartz
-reagent-desc-vim-quartz = Vim Quartz
+
+reagent-name-nuka-cola = Ядер-Кола
+reagent-desc-nuka-cola = Популярнейший безалкогольный напиток, который выпускался до Великой войны.
+reagent-name-irradiated-nuka-cola = радиоактивная Ядер-Кола
+reagent-desc-irradiated-nuka-cola = Эта Ядер-Кола вызовет у вас лёгкое покалывание.
+reagent-name-nuka-cola-quantum = Ядер-Кола Квантум
+reagent-desc-nuka-cola-quantum = Ядер-Кола Квантум
+reagent-name-nuka-cola-clear = Чистая Ядер-Кола
+reagent-desc-nuka-cola-clear = Чистая Ядер-Кола
+reagent-name-nuka-cola-cherry = Ядер-Кола Вишня
+reagent-desc-nuka-cola-cherry = Ядер-Кола Вишня
+reagent-name-nuka-cola-grape = Ядер-Кола Виноград
+reagent-desc-nuka-cola-grape = Ядер-Кола Виноград
+reagent-name-nuka-cola-orange = Ядер-Кола Апельсин
+reagent-desc-nuka-cola-orange = Ядер-Кола Апельсин
+reagent-name-nuka-cola-victory = Ядер-Кола Победа
+reagent-desc-nuka-cola-victory = Ядер-Кола Победа
+reagent-name-nuka-cola-yellow = Ядер-Кола Жёлтая
+reagent-desc-nuka-cola-yellow = Ядер-Кола Жёлтая
+reagent-name-nuka-cola-quartz = Ядер-Кола Кварц
+reagent-desc-nuka-cola-quartz = Ядер-Кола Кварц
+reagent-name-vim = Вим
+reagent-desc-vim = Вим
+reagent-name-vim-captainsblend = Вим Капитанский
+reagent-desc-vim-captainsblend = Вим Капитанский
+reagent-name-vim-refresh = Вим Освежающий
+reagent-desc-vim-refresh = Вим Освежающий
+reagent-name-vim-quartz = Вим Кварц
+reagent-desc-vim-quartz = Вим Кварц
 
 ## Alcohol
-reagent-name-beantownbrownbeer = Beantown Brown Beer
-reagent-desc-beantownbrownbeer = Beantown Brown Beer
-reagent-name-bourbon = bourbon
-reagent-desc-bourbon = bourbon
-reagent-name-gammagulpbeer = Gammagulp Beer
-reagent-desc-gammagulpbeer = Gammagulp Beer
-reagent-name-gwinnetstout = Gwinnet Stout
-reagent-desc-gwinnetstout = Gwinnet Stout
-reagent-name-lager = lager
-reagent-desc-lager = lager
-reagent-name-pilsner = pilsner
-reagent-desc-pilsner = pilsner
-reagent-name-roentgenrum = Roentgen Rum
-reagent-desc-roentgenrum = Roentgen Rum
-reagent-name-rotgut = Rotgut
-reagent-desc-rotgut = Rotgut
-reagent-name-scotch = scotch
-reagent-desc-scotch = scotch
+
+reagent-name-beantownbrownbeer = Бинтауновское Тёмное Пиво
+reagent-desc-beantownbrownbeer = Бинтауновское Тёмное Пиво
+reagent-name-bourbon = виски
+reagent-desc-bourbon = виски
+reagent-name-gammagulpbeer = пиво "Гамма-глоток"
+reagent-desc-gammagulpbeer = пиво "Гамма-глоток"
+reagent-name-gwinnetstout = Пиво "Гвиннет Стаут"
+reagent-desc-gwinnetstout = Пиво "Гвиннет Стаут"
+reagent-name-lager = светлое пиво
+reagent-desc-lager = светлое пиво
+reagent-name-pilsner = пильзнер
+reagent-desc-pilsner = пильзнер
+reagent-name-roentgenrum = Рентген-ром
+reagent-desc-roentgenrum = Рентген-ром
+reagent-name-rotgut = Пойло
+reagent-desc-rotgut = Пойло
+reagent-name-scotch = скотч
+reagent-desc-scotch = скотч
 
 ## Animals
-reagent-name-milk-brahmin = brahmin milk
-reagent-desc-milk-brahmin = Tasty brahmin milk.
-reagent-name-milk-bighorner = bighorner milk
-reagent-desc-milk-bighorner = Fatty bighorner milk.
-reagent-name-milk-radstag = radstag milk
-reagent-desc-milk-radstag = Protein rich radstag milk.
-reagent-name-wasteland-blood = waster blood
-reagent-desc-wasteland-blood = waster blood
-reagent-name-nightstalker-blood = nightstalker blood
-reagent-desc-nightstalker-blood = blood from a nightstalker
 
-reagent-name-fireantnectar = Fire ant nectar
-reagent-desc-fireantnectar = Crystals of fire ant nectar.
-reagent-name-bloatflyacid = bloatfly acid
-reagent-desc-bloatflyacid = Acid from the sac of a bloatfly.
-reagent-name-cazadoracid = cazador acid
-reagent-desc-cazadoracid = Acid from the sac of a cazador stinger.
+reagent-name-milk-brahmin = молоко брамина
+reagent-desc-milk-brahmin = Вкусное молоко брамина.
+reagent-name-milk-bighorner = молоко толсторога
+reagent-desc-milk-bighorner = Жирное молоко толсторога.
+reagent-name-milk-radstag = молоко рад-оленя
+reagent-desc-milk-radstag = Молоко рад-оленя, богатое животным белком.
+reagent-name-wasteland-blood = радиоактивная кровь
+reagent-desc-wasteland-blood = радиоактивная кровь
+reagent-name-fireantnectar = нектар огненного муравья
+reagent-desc-fireantnectar = Кристализированный огонь.
+reagent-name-bloatflyacid = кислота дутня
+reagent-desc-bloatflyacid = Кислота из мешочка дутня.
+reagent-name-cazadoracid = кислота касадора
+reagent-desc-cazadoracid = Кислота из жала касадора.
+reagent-name-nightstalker-blood = кровь ночного охотника
+reagent-desc-nightstalker-blood = Кровь из тела ночного охотника.
 
 ## Extracts
-reagent-name-extract-agave-nectar = agave nectar extract
-reagent-desc-extract-agave-nectar = A spiny plant that tastes rather medicinal and fruity with a hint of citrus.
-reagent-name-extract-banana-yucca = banana yucca extract
-reagent-desc-extract-banana-yucca = A banana shaped fruit that tastes like sweet potato with a dash of apple.
-reagent-name-extract-blackberries = blackberry juice
-reagent-desc-extract-blackberries = A little pod like fruit that is dark in colour, incredibly sweet and refreshing to eat.
-reagent-name-extract-broc = broc flower extract
-reagent-desc-extract-broc = An orange and yellow plant that is well known for its healing properties. Tastes bitter and medicinal.
-reagent-name-extract-buffalo-gourd = buffalo gourd  juice
-reagent-desc-extract-buffalo-gourd = A large seed from a plant that grows commonly around the wasteland. Tastes very neutral, with a bitter aftertaste.
-reagent-name-extract-cabbage = cabbage juice
-reagent-desc-extract-cabbage = A round headed vegeatalble, no one likes to eat this raw. Tastes like nothing, are you sure this isn't water?
-reagent-name-extract-cactus-water = cactus water
-reagent-desc-extract-cactus-water = Water from the inside of a cactus, is this safe to drink? Quenches your thirst, the quenchiest of thirsts.
-reagent-name-extract-carrot = carrot juice
-reagent-desc-extract-carrot = A orange coloured vegetable, it supposedly helps with your sight? Tastes refreshing and mildly of dirt.
-reagent-name-extract-coyote-tobacco = coyote tobacco extract
-reagent-desc-extract-coyote-tobacco = A bundle of leaves harvested from a plant, they are strongly aromatic. Tastes of grit and toughness, also burns your tongue a little.
-reagent-name-extract-datura = datura extract
-reagent-desc-extract-datura = A root that is often harvested for its venom which is commonly put on melee weapons. Tastes terrible, it burns your mouth, it makes your stomach feel sick.
-reagent-name-extract-honey-mesquite-pod = honey mesquite pod extract
-reagent-desc-extract-honey-mesquite-pod = A vegetable that vaguely resembles a pea pod. Tastes of buckwheat and clover honey.
-reagent-name-extract-glowpepper = glowpepper juice 
-reagent-desc-extract-glowpepper = A glowing pepper; something tells you eating this would probably hurt your mouth. Tastes like glorious nuclear fire.
-reagent-name-extract-maize = maize extract
-reagent-desc-extract-maize = Corn before there was corn, this vegetable is all sorts of different colours. Tastes slightly sweet and starchy.
-reagent-name-extract-mutfruit = mutfruit juice
-reagent-desc-extract-mutfruit = A mutated piece of fruit that no one is exactly sure how it came to be. Tastes like berries, apples, bananas.. But they've all gone slightly bad.
-reagent-name-extract-nettle = nettle juice
-reagent-desc-extract-nettle = Juice from a prickly nettle. Tastes minty and medicinal.
-reagent-name-extract-pinyon = pinyon juice
-reagent-desc-extract-pinyon = Juice from a pinyon. Its very strong.
-reagent-name-extract-pricky-pear-fruit = prickly pear juice
-reagent-desc-extract-pricky-pear-fruit = The fruit from a cactus, make sure you get rod of the pokers before eating. Tastes of melon, or kiwi, it is very juicy and refreshing.
-reagent-name-extract-razorgrain = razorgrain flour
-reagent-desc-extract-razorgrain = A form of grain, maybe you could use this to make bread? Tastes like nothing, very dry, crunchy.
-reagent-name-extract-starlight-berries = starlight berry juice
-reagent-desc-extract-starlight-berries = A berry that is yellow and seems to set off your geiger counter if it gets too close. Tastes terrible, like spoiled fruits.
-reagent-name-extract-tarberries = tarberry juice
-reagent-desc-extract-tarberries = A water-grown crop that is slightly orange in appearance. Tastes odd, juicy, but with very little flavour, it tingles the tongue.
-reagent-name-extract-tato = tato juice
-reagent-desc-extract-tato = What formerly may have been a tomato. Red and angry. Tastes juicy, slightly firm, would be good on a sandwich.
-reagent-name-extract-white-horsenettle = white horsenettle extract
-reagent-desc-extract-white-horsenettle = A group of nettles and berries, they don't seem too safe to eat. Tastes of poison, trying to swallow it tastes a lot of effort and makes your stomach hurt.
-reagent-name-extract-xander = xander extract
-reagent-desc-extract-xander = An edible root, it was obviously pulled from the ground at some point. Tastes similar to a potato, very starchy, but good to eat.
-reagent-name-extract-fungusrad = irradiated fungus extract
-reagent-desc-extract-fungusrad = An irradiated and glowing green fungus. Tastes revolting and mushy. It will gladly donate you some of it's green glow.
-reagent-name-extract-fungus = fungus extract
-reagent-desc-extract-fungus = An extract from fungus. Tastes alright, albeit mushy and is quite poisonous in it's current state.
+
+reagent-name-extract-agave-nectar = экстракт нектара агавы
+reagent-desc-extract-agave-nectar = Колючее растение с целебными свойствами и фруктовым вкусом с цитрусовыми нотками.
+reagent-name-extract-banana-yucca = экстракт банановой юкки
+reagent-desc-extract-banana-yucca = Фрукт в форме банана, по вкусу напоминающий сладкий картофель с примесью яблока.
+reagent-name-extract-blackberries = ежевичный сок
+reagent-desc-extract-blackberries = Маленький фрукт, похожий на стручок, темного цвета, невероятно сладкий и освежающий на вкус.
+reagent-name-extract-broc = экстракт цветка брокка
+reagent-desc-extract-broc = Оранжево-желтое растение, хорошо известное своими целебными свойствами. На вкус горькое и лекарственное.
+reagent-name-extract-buffalo-gourd = сок вонючей тыквы
+reagent-desc-extract-buffalo-gourd = Крупное семя растения, которое обычно растет на пустошах. Вкус очень нейтральный, с горьковатым послевкусием.
+reagent-name-extract-cabbage = капустный сок
+reagent-desc-extract-cabbage = Овощ с круглой головкой, никто не любит есть его сырым. На вкус он ни на что не похож, вы уверены, что это не вода?
+reagent-name-extract-cactus-water = кактусовая вода
+reagent-desc-extract-cactus-water = Вода добытая из кактуса, безопасна ли она для питья? Утоляет вашу жажду.
+reagent-name-extract-carrot = морковный сок
+reagent-desc-extract-carrot = Овощ оранжевого цвета, предположительно, улучшает зрение? На вкус освежающий, с легким привкусом грязи.
+reagent-name-extract-coyote-tobacco = экстракт табачной жвачки
+reagent-desc-extract-coyote-tobacco = Это пучок листьев, собранных с растения, обладающий сильным ароматом. На вкус они твердые, как песок, и немного обжигают язык.
+reagent-name-extract-datura = экстракт дурмана
+reagent-desc-extract-datura = Корень, который часто собирают из-за его яда, которым обычно смазывают оружие ближнего боя. Ужасный вкус, обжигает рот и вызывает тошноту.
+reagent-name-extract-honey-mesquite-pod = медовый экстракт стручков мескита
+reagent-desc-extract-honey-mesquite-pod = Овощ, отдаленно напоминающий стручок гороха. По вкусу напоминает гречишный и клеверный мед.
+reagent-name-extract-jalapeno-pepper = сок из перца халапеньо
+reagent-desc-extract-jalapeno-pepper = Зеленый перец - что-то подсказывает вам, что, съев его, вы, вероятно, почувствуете боль На вкус он как болезненная больная боль.
+reagent-name-extract-maize = экстракт кукурузы
+reagent-desc-extract-maize = На вкус он слегка сладковатый и крахмалистый.
+reagent-name-extract-mutfruit = сок мутафрукта
+reagent-desc-extract-mutfruit = Видоизмененный фрукт, происхождение которого никто точно не знает. По вкусу напоминает ягоды, яблоки, бананы.. Но все они слегка испортились.
+reagent-name-extract-nettle = сок крапивы
+reagent-desc-extract-nettle = Сок из колючей крапивы. Вкус мятный и лечебный.
+reagent-name-extract-pricky-pear-fruit = сок из опунции
+reagent-desc-extract-pricky-pear-fruit = Обязательно очистите его от кожуры перед употреблением. На вкус он напоминает дыню или киви, очень сочный и освежающий.
+reagent-name-extract-razorgrain = крупнозернистая мука
+reagent-desc-extract-razorgrain = Разновидность крупы, которую можно использовать для выпечки хлеба. На вкус ничего особенного, очень сухая, хрустящая.
+reagent-name-extract-starlight-berries = сок ягод ночного ползуна
+reagent-desc-extract-starlight-berries = Желтая ягода, от которой, кажется, срабатывает счетчик Гейгера, если подойти к ней слишком близко. Вкус ужасный, как у испорченных фруктов.
+reagent-name-extract-tarberries = сок смоляники
+reagent-desc-extract-tarberries = Это выращенный в воде овощ, который имеет слегка оранжевый оттенок. На вкус он необычный, сочный, но с очень слабым привкусом, от него покалывает язык.
+reagent-name-extract-tato = сок из тошки
+reagent-desc-extract-tato = То, что раньше могло быть помидором. Красный и сочный. На вкус сладкий, слегка твердый, подойдет для бутерброда.
+reagent-name-extract-white-horsenettle = экстракт ягод паслёна
+reagent-desc-extract-white-horsenettle = Смесь крапивы и ягод, кажется, не слишком безопасна для употребления в пищу. На вкус ядовита, попытка проглотить ее требует больших усилий и вызывает боль в желудке.
+reagent-name-extract-xander = экстракт корня зандера
+reagent-desc-extract-xander = Это съедобный корнеплод, который, очевидно, когда-то был извлечен из земли. По вкусу напоминает картофель, очень крахмалистый, но вкусный.
+reagent-name-extract-fungusrad = экстракт радиоактивного гриба
+reagent-desc-extract-fungusrad = Радиоактивный гриб, светящийся зловещим зеленым светом. Вкус отвратительный, как старая кашица. Один глоток, и вы сами начнете светиться в темноте.
+reagent-name-extract-fungus = грибной экстракт
+reagent-desc-extract-fungus = Омерзительная кашеобразная субстанция, довольно ядовита.
 
 ## Teas
-reagent-name-tea-agave = agave tea
-reagent-desc-tea-agave = Sweet and tangy tea.
-reagent-name-tea-blackberry = blackberry tea
-reagent-desc-tea-blackberry = Sweet yet tart.
-reagent-name-tea-barrelcactus = barrel cactus tea
-reagent-desc-tea-barrelcactus = Weak tea.
-reagent-name-tea-broc = broc tea
-reagent-desc-tea-broc = Medicinal but dull.
-reagent-name-tea-datura = datura tea
-reagent-desc-tea-datura = Bitter drink.
-reagent-name-tea-honeymesquite = honey mesquite tea
-reagent-desc-tea-honeymesquite = Oddly sweet.
-reagent-name-tea-mutfruit = mutfruit tea
-reagent-desc-tea-mutfruit = Dull but homely.
-reagent-name-tea-nettle = nettle tea
-reagent-desc-tea-nettle = Medicinal and warming.
-reagent-name-tea-pricklypear = prickly pear tea
-reagent-desc-tea-pricklypear = fruity.
-reagent-name-tea-starlightberry = starlightberry tea
-reagent-desc-tea-starlightberry = Bursting with flavor.
-reagent-name-tea-tarberry = tarberry tea
-reagent-desc-tea-tarberry = Bursting with flavor.
-reagent-name-tea-whitehorsenettle = white horsenettle tea
-reagent-desc-tea-whitehorsenettle = Tingly.
-reagent-name-tea-xander = xander tea
-reagent-desc-tea-xander = medicinal root tea.
-reagent-name-tea-fireantnectar = fire ant nectar
-reagent-desc-tea-fireantnectar = Crystalised nectar from a fire ant. Sugary.
 
-
+reagent-name-tea-agave = чай из агавы
+reagent-desc-tea-agave = Сладкий и острый чай.
+reagent-name-tea-blackberry = ежевичный чай
+reagent-desc-tea-blackberry = Сладкий, но терпкий.
+reagent-name-tea-barrelcactus = бочковый кактусовый чай
+reagent-desc-tea-barrelcactus = Слабый чай.
+reagent-name-tea-broc = чай из цветка брокка
+reagent-desc-tea-broc = Целебный, но не вкусный.
+reagent-name-tea-datura = дурмановый чай
+reagent-desc-tea-datura = Горький напиток.
+reagent-name-tea-honeymesquite = медовый мескитовый чай
+reagent-desc-tea-honeymesquite = До странности сладкий.
+reagent-name-tea-mutfruit = мутафруктовый чай
+reagent-desc-tea-mutfruit = Не вкусный, но привычный.
+reagent-name-tea-nettle = крапивный чай
+reagent-desc-tea-nettle = Целебный и согревающий.
+reagent-name-tea-pricklypear = чай из опунции
+reagent-desc-tea-pricklypear = Фруктовый.
+reagent-name-tea-starlightberry = чай из ягод ночного ползуна
+reagent-desc-tea-starlightberry = Пышущий вкусом.
+reagent-name-tea-tarberry = смоляничный чай
+reagent-desc-tea-tarberry = Насыщенный вкус.
+reagent-name-tea-whitehorsenettle = белый паслёновый чай
+reagent-desc-tea-whitehorsenettle = Покалывающий.
+reagent-name-tea-xander = зандерный чай
+reagent-desc-tea-xander = Целебный корешковый чай
+reagent-name-tea-fireantnectar = нектар огненного муравья
+reagent-desc-tea-fireantnectar = Кристаллизованный нектар огненного муравья. Сладкий.
 # Venoms
-reagent-name-firetoxin = fire toxin
-reagent-desc-firetoxin = The hot stuff from firey creatures.
-
-reagent-name-nightstalker-venom = nightstalker venom
-reagent-desc-nightstalker-venom = The venom of a nightstalker. While not nearly as potent as cazador venom, it can still knock you down to your knees.
-
-reagent-name-cazador-venom = cazador venom
-reagent-desc-cazador-venom = The venom of a cazador. Quick death is near guaranteed.
+reagent-name-firetoxin = огненный токсин
+reagent-desc-firetoxin = Жаркий привет от пламенных созданий пустоши, способный разжечь ад в ваших жилах. Будьте готовы к перегреву!
+reagent-name-nightstalker-venom = яд ночного охотника
+reagent-desc-nightstalker-venom = Яд ночного охотника из тёмных уголков пустоши. Не столь смертелен, как яд казадора, но всё равно заставит вас пасть на колени и молить о пощаде.
+reagent-name-cazador-venom = яд казадора
+reagent-desc-cazador-venom = Яд казадора — самый страшный кошмар всех, кто блуждает по пустошам. Быстрая смерть практически неизбежна. Бегите, если можете!
 
 # Chems
-reagent-name-healing-powder = healing powder
-reagent-desc-healing-powder = A powder made from crushed plants.
-
-reagent-name-antidote-mixture = handmade antidote
-reagent-desc-antidote-mixture = An antidote made from radscorpion tail and water for treating poison.
-
-reagent-name-antidote = industrial antidote
-reagent-desc-antidote = A potent antitoxin manufactured in a lab.
-
-reagent-name-healing-poultice = healing poultice
-reagent-desc-healing-poultice = A powder made from a large mixture of plants.
-
-reagent-name-bitterdrink = bitterdrink
-reagent-desc-bitterdrink = A mixture of crushed plants mixed with water neutralizing poison and radiation from body.
-
-reagent-name-smelling-salts = smelling salts
-reagent-desc-smelling-salts = A grainy mixture of rocks with an insanely potent smell.
-
-reagent-name-mourning-poultice = mournin poultice
-reagent-desc-mourning-poultice = A mixture of poisonous crushed plants used in tribalistic ceremonies said to make you see gods.
-
+reagent-name-healing-powder = целебный порошок
+reagent-desc-healing-powder = Порошок, приготовленный из измельченных растений.
+reagent-name-antidote-mixture = противоядие
+reagent-desc-antidote-mixture = Противоядие, приготовленное из хвоста радскорпиона и воды.
+reagent-name-antidote = антидот
+reagent-desc-antidote = Мощный антитоксин, изготовленный в лаборатории.
+reagent-name-healing-poultice = целебная припарка
+reagent-desc-healing-poultice = Порошок, сделанный из большой смеси растений.
+reagent-name-bitterdrink = горький напиток
+reagent-desc-bitterdrink = Смесь измельченных растений с водой, нейтрализующая яд и радиацию в организме.
+reagent-name-smelling-salts = нюхательная соль
+reagent-desc-smelling-salts = Зернистая смесь камней с невероятно сильным запахом.
+reagent-name-mourning-poultice = траурная припарка
+reagent-desc-mourning-poultice = Смесь ядовитых измельченных растений, используемая в племенных церемониях. Говорят, что она позволяет увидеть богов.
 # Medicine
-reagent-name-healing-mixture = stimpak
-reagent-desc-healing-mixture = A mixture of reagents that makes you heal.
-reagent-name-dirty-stimpak = dirty stimpak
-reagent-desc-dirty-stimpak = A dirty mixture of reagents that makes you heal.
-
-reagent-name-robust-healing-mixture = super stimpak
-reagent-desc-robust-healing-mixture = A mixture of reagents that makes you heal fast.
-
-reagent-name-ultra-robust-healing-mixture = ultra stimpak
-reagent-desc-ultra-robust-healing-mixture = A mixture of reagents that make you heal faster than you can feel it, however it comes with hefty side effects.
-
-reagent-name-hydra = hydra
-reagent-desc-hydra = A mixture of fungi, scorpion tail and nightstalker blood which provides moderate healing, but is quite painful and can be addictive.
-
-reagent-name-damage-resist-mixture = damage resistant mixture
-reagent-desc-damage-resist-mixture = A mixture of reagents that makes you resistant to damage.
-
-reagent-name-radaway = radaway
-reagent-desc-radaway = An odd reagent that cures your radiation.
-
-reagent-name-diluted-radaway = diluted radaway
-reagent-desc-diluted-radaway = A diluted odd reagent that cures your radiation at a slower rate.
-
-reagent-name-buffout = buffout
-reagent-desc-buffout = A reagent that makes you overall more robust, for a short period of time.
-
-reagent-name-buffjet = buffjet
-reagent-desc-buffjet = A reagent that combines the power of jet with the power of buffout, highly robust.
-
-reagent-name-bufftats = bufftats
-reagent-desc-bufftats = A reagent that combines the power of mentats with the power of buffout, highly robust.
-
-reagent-name-rad-x = rad-x
-reagent-desc-rad-x = A reagent that makes you resistant to radiation.
-
-reagent-name-fixer = fixer
-reagent-desc-fixer = A reagent that cures your addictions.
-
-reagent-name-mentats = mentats
-reagent-desc-mentats = A reagent that makes you mentally sharper.
-reagent-name-mentats-berry = berry mentats
-reagent-desc-mentats-berry = A fruity reagent that makes you mentally sharper.
-reagent-name-mentats-grape = grape mentats
-reagent-desc-mentats-grape = A fruity reagent that makes you mentally sharper.
-reagent-name-mentats-orange = orange mentats
-reagent-desc-mentats-orange = A citrus reagent that makes you mentally sharper.
-
-reagent-name-cateye = cateye
-reagent-desc-cateye = A reagent that improves your low-light vision.
-
-reagent-name-daytripper = daytripper
-reagent-desc-daytripper = The perfect escape for your horrible life.
-
-
+reagent-name-healing-mixture = стимпак
+reagent-desc-healing-mixture = Смесь реагентов, которая помогает вам излечиться.
+reagent-name-dirty-stimpak = грязный стимпак
+reagent-desc-dirty-stimpak = Грязная смесь реагентов, которая помогает вам излечиться.
+reagent-name-robust-healing-mixture = супер стимпак
+reagent-desc-robust-healing-mixture = Смесь реагентов, которая ускоряет заживление ран.
+reagent-name-ultra-robust-healing-mixture = ультра стимпак
+reagent-desc-ultra-robust-healing-mixture = Смесь реагентов, которая заставляет вас исцеляться быстрее, чем вы можете это почувствовать, однако она имеет серьезные побочные эффекты.
+reagent-name-damage-resist-mixture = защитная смесь
+reagent-desc-damage-resist-mixture = Смесь реагентов, которая делает вас устойчивыми к повреждениям.
+reagent-name-hydra = гидра
+reagent-desc-hydra = Адская смесь экстракта грибов, хвоста радскорпиона и крови ночного охотника. Поднимает на ноги даже мертвеца, но будьте осторожны: боль адская, а привыкание – как у гуля к радиации.
+reagent-name-diluted-radaway = разбавленный антирадин
+reagent-desc-diluted-radaway = Сэкономили на антирадине? Что ж, этот разбавленный коктейльчик всё же выведет радиацию... когда-нибудь. Запаситесь терпением, или лучше найдите что-то покрепче.
+reagent-name-buffjet = баффаут-джет
+reagent-desc-buffjet = Джет и Баффаут в одном флаконе! Адреналин бьёт ключом, мир размывается, а вы готовы свернуть горы... или хотя бы добежать до ближайшего поселения, пока не отпустило.
+reagent-name-bufftats = баффаут-ментаты
+reagent-desc-bufftats = Говорят, этот коктейль из Ментатов и Баффаута делает вас умнее... и сильнее. Впрочем, после него вы вряд ли вспомните, зачем вам это было нужно.
+reagent-name-radaway = антирадин
+reagent-desc-radaway = Странный реагент, который исцеляет вас от радиации.
+reagent-name-buffout = баффаут
+reagent-desc-buffout = Высокоэффективный стероид, подпольный препарат, первоначально широко использовавшийся спортсменами.
+reagent-name-rad-x = рад-х
+reagent-desc-rad-x = Принимается перед гарантированным облучением, значительно повышая устойчивость организма к радиации.
+reagent-name-fixer = детоксин
+reagent-desc-fixer = Этот препарат был разработан в компании Мед-Тек для лечения зависимостей.
+reagent-name-mentats = ментаты
+reagent-desc-mentats = Их приём на некоторое время улучшает память, обостряет чувства, делает человека живее и привлекательнее.
+reagent-name-mentats-berry = ягодные ментаты
+reagent-desc-mentats-berry = Их приём на некоторое время улучшает память, обостряет чувства, делает человека живее и привлекательнее.
+reagent-name-mentats-grape = виноградные ментаты
+reagent-desc-mentats-grape = Их приём на некоторое время улучшает память, обостряет чувства, делает человека живее и привлекательнее.
+reagent-name-mentats-orange = апельсиновые ментаты
+reagent-desc-mentats-orange = Их приём на некоторое время улучшает память, обостряет чувства, делает человека живее и привлекательнее.
+reagent-name-cateye = кошеглаз
+reagent-desc-cateye = Употребление этого реагента позволяет вам лучше видеть в темноте.
+reagent-name-daytripper = глюконавт
+reagent-desc-daytripper = Этот довоенный препарат любят те, кому нужно уйти в мир сладких грёз.
+reagent-name-fev = ВРЭ
+reagent-desc-fev = Это мегавирус, защищённый белковой оболочкой, укрепленной ионизированными молекулами водорода.
 # Meta
-reagent-name-movespeedmod-mixture = jet
-reagent-desc-movespeedmod-mixture = A mixture of reagents that makes you move fast.
-
-reagent-name-robust-movespeedmod-mixture = turbo
-reagent-desc-robust-movespeedmod-mixture = A mixture of reagents that makes you move extremely fast.
-
-reagent-name-damage-mod-mixture = psycho
-reagent-desc-damage-mod-mixture = A mixture of reagents that makes you stronger for a while.
-
+reagent-name-movespeedmod-mixture = джет
+reagent-desc-movespeedmod-mixture = Смесь реагентов, которая заставляет вас двигаться быстро.
+reagent-name-robust-movespeedmod-mixture = турбо
+reagent-desc-robust-movespeedmod-mixture = Ноги сами несут вас вперёд, мир превращается в смазанное пятно, а когти смерти кажутся медленными улитками. Главное – не врезаться в стену на полном ходу.
+reagent-name-damage-mod-mixture = психо
+reagent-desc-damage-mod-mixture = Чувствуете, как мышцы наливаются сталью, а в глазах загорается безумный огонь? Психо пробуждает в вас зверя, готового разорвать любого врага.
 # Products
-reagent-name-abraxocleaner = Abraxo Cleaner
-reagent-desc-abraxocleaner = A pre-war cleaning product.
-reagent-name-wonderglue = Wonderglue
-reagent-desc-wonderglue = A pre-war adhesive. Don't sniff it.
-reagent-name-turpentine = Turpentine
-reagent-desc-turpentine = A spirit used for cleaning things.
-reagent-name-antiseptic = Antiseptic
-reagent-desc-antiseptic = A cleaning solution made from Abraxo Cleaner and some Rubbing Alcohol.
-
+reagent-name-abraxocleaner = чистящее средство Абраксо
+reagent-desc-abraxocleaner = Универсальное моющее средство, производившееся довоенной компанией Абраксодайн Кемикал - одним из филиалов РобКо.
+reagent-name-wonderglue = Чудо-клей
+reagent-desc-wonderglue = Не нюхайте.
+reagent-name-turpentine = Скипидар
+reagent-desc-turpentine = Представляет собой жидкую смесь различных эфирных масел, получаемых из смол хвойных деревьев. Является органическим растворителем.
+reagent-name-antiseptic = Антисептик
+reagent-desc-antiseptic = Чистящий раствор, сделанный из Чистящего средства "Абраксо" и небольшого количества Медицинского спирта.
 # Ores, Metals, Materials
-materials-aluminum = aluminum
-materials-antchitin = chitin
-materials-charcoal = charcoal
-materials-exoskeleton = exoskeleton
-materials-leather = leather
-materials-lead = lead
-materials-lead-scrap = scrap lead
-materials-raw-lead = raw lead
-materials-raw-leather = raw leather
-materials-thread = thread
-materials-scrap-electronic = scrap electronic
-materials-N14iron = iron
-materials-raw-N14iron = raw iron
-materials-scrap-steel = scrap steel
-materials-copper = copper
-materials-scrap-copper = scrap copper
-materials-raw-N14copper = raw copper
-materials-N14gold = gold
-materials-scrap-gold = scrap gold
-materials-raw-N14gold = raw gold
-materials-N14brass = brass
-materials-scrap-brass = scrap brass
-materials-N14silver = silver
-materials-raw-N14silver = raw silver
-materials-scrap = scrap
-materials-raw-aluminum = raw aluminum
-materials-raw-sulfur = raw sulfur
-materials-sulfur = sulfur
+materials-gunpowder = порох
+materials-lead = свинец
+materials-lead-scrap = лом свинца
+materials-raw-lead = необработанный свинец
+materials-aluminum = алюминий
+materials-raw-aluminum = необработанный алюминий
+materials-sulfur = сера
+materials-raw-sulfur = необработанная сера
+materials-charcoal = древесный уголь
+materials-antchitin = хитин
+materials-exoskeleton = экзоскелет
+materials-leather = кожа
+materials-raw-leather = необработанная кожа
+materials-thread = нитки
+materials-scrap-electronic = лом электроники
+materials-N14iron = железо
+materials-raw-N14iron = необработанное железо
+materials-scrap-steel = лом стали
+materials-copper = медь
+materials-scrap-copper = лом меди
+materials-raw-N14copper = необработанная медь
+materials-N14gold = золото
+materials-scrap-gold = лом золота
+materials-raw-N14gold = необработанное золото
+materials-N14brass = латунь
+materials-scrap-brass = лом латуни
+materials-N14silver = серебро
+materials-raw-N14silver = необработанное серебро
+materials-scrap = лом
 
-reagent-name-gunpowder = gunpowder
-reagent-desc-gunpowder = Small pellet gunpowder. Now just add lead.
-reagent-name-fertilizer = fertilizer
-reagent-desc-fertilizer = Ground fertilizer. Perfect for your plants!
-reagent-name-dung = dung
-reagent-desc-dung = Animal dung. Ripe for turning into compost.
-
-
+reagent-name-gunpowder = порох
+reagent-desc-gunpowder = Порох в мелких гранулах. Теперь просто добавьте свинец.
+reagent-name-fertilizer = удобрение
+reagent-desc-fertilizer = Чудесное удобрение для ваших растений.
+reagent-name-dung = навоз
+reagent-desc-dung = Навоз животных. Созревает для превращения в компост.
+reagent-name-sulfur = сера
+reagent-desc-sulfur = Молотая сера в порошкообразном виде. Вам стоит надеть противогаз при работе с ним.
 # Other
-reagent-name-scorpiontail = scorpion tail
-reagent-desc-scorpiontail = scorpion tail. Stingy.
-
-compost-mixing-success = compost mixed
-mixing-verb-composting = mix compost
+reagent-name-scorpiontail = хвост скорпиона
+reagent-desc-scorpiontail = Хвост скорпиона. Острый.
+compost-mixing-success = компостная смесь
+mixing-verb-composting = Смесь компоста.

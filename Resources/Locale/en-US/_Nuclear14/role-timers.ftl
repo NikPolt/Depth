@@ -1,1 +1,1 @@
-role-timer-race-ban = You are prohibited from playing not as human in this role. The Wasteland does not permit such combinations.
+role-timer-race-ban = На этой роли может быть только человек. Пустошь не допустит иного варианта.
