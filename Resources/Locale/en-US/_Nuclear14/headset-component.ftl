@@ -1,16 +1,19 @@
 # See en-US/headset/headset-component.ftl for upstream radio channels.
-announcer-Fallout-name = Wasteland
 
-chat-radio-wasteland-common = Wasteland Common
-chat-radio-vault-command = Vault Command
-chat-radio-vault-engineering = Vault Engineering
-chat-radio-vault-medical = Vault Medical
-chat-radio-vault-science = Vault Science
-chat-radio-vault-security = Vault Security
-chat-radio-vault-common = Vault
-chat-radio-caravan = CC
-chat-radio-bosmidwest = MBoS
-chat-radio-boswashington = WBoS
-chat-radio-enclave = Enclave
-chat-radio-ncr = NCR
-chat-radio-pbs = Broadcast
+chat-radio-wasteland-common = Пустоши
+chat-radio-vault-command = Уб. Командный
+chat-radio-vault-engineering = Уб. Инженерный
+chat-radio-vault-medical = Уб. Медицинский
+chat-radio-vault-science = Уб. Научный
+chat-radio-vault-security = Уб. Охранный
+chat-radio-vault-common = Уб. Общий
+chat-radio-caravan = Караван
+chat-radio-bosmidwest = СЗБС
+chat-radio-boswashington = ВБС
+chat-radio-enclave = Анклав
+chat-radio-ncr = НКР
+announcer-Fallout-name = Пустошь
+chat-radio-pbs = Радио «Новости Галактики»
+chat-radio-bazar = Радио «Ржавый Гвоздь»
+chat-radio-wasteland = Радио «Голос Пустоши»
+chat-radio-boswest = ЗБС

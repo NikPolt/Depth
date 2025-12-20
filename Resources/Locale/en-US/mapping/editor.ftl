@@ -1,30 +1,29 @@
-mapping-entities = Entities
-mapping-tiles = Tiles
-mapping-decals = Decals
-mapping-favorite = Favorite
-mapping-template = Templates
+mapping-entities = Объекты
+mapping-tiles = Тайлы
+mapping-decals = Декали
+mapping-favorite = Избранное
+mapping-template = Шаблоны
 
-mapping-search = Search
-mapping-replace = Replace
-mapping-erase-entity = Erase Entity
-mapping-erase-tile = Erase Tile
-mapping-erase-decal = Erase Decal
+mapping-search = Поиск...
+mapping-replace = Заменить
+mapping-erase-entity = Удалить объект
+mapping-erase-tile = Удалить тайл
+mapping-erase-decal = Удалить декаль
 
-mapping-erase-entity-tooltip = Hold {$key}
+mapping-erase-entity-tooltip = Удерживайте {$key}
 
-mapping-flip-tooltip = Flip sides
-mapping-visibility-tooltip = Visibility
-mapping-pick-tooltip = Pick entity or tile (Hold {$key})
-mapping-pick-decal-tooltip = Pick decal (Hold {$key})
-                             Press the middle mouse button to switch between decals
-mapping-fixgridatmos-tooltip = Add atmosphere to the grid
-mapping-remove-grid-tooltip = Remove grid
-mapping-move-grid-tooltip = Move grid
-mapping-grid-vv-tooltip = View grid variables
-mapping-pipes-color-tooltip = Paint the pipes
-                              Click on the pipe to paint in the currently selected color
-mapping-chat-button-tooltip = Toggle chat visibility
+mapping-flip-tooltip = Отразить стороны
+mapping-visibility-tooltip = Видимость
+mapping-pick-tooltip = Выбрать объект или тайл (Удерживайте {$key})
+mapping-pick-decal-tooltip = Выбрать декаль (Удерживайте {$key})
+                             Нажмите среднюю кнопку мыши для переключения между декалями
+mapping-fixgridatmos-tooltip = Добавить атмосферу на грид
+mapping-remove-grid-tooltip = Удалить грид
+mapping-move-grid-tooltip = Переместить грид
+mapping-grid-vv-tooltip = Просмотреть переменные грида
+mapping-pipes-color-tooltip = Покрасить трубы
+                              Нажмите на трубу для покраски в выбранный цвет
+mapping-chat-button-tooltip = Переключить видимость чата
 
-mapping-collapse-all-tooltip = Collapse All
-mapping-clear-search-tooltip = Clear search
-
+mapping-collapse-all-tooltip = Свернуть всё
+mapping-clear-search-tooltip = Очистить поиск

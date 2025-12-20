@@ -1,2 +1,3 @@
-charger-examine = Charges at [color={$color}]{$chargeRate}W[/color].
-charger-component-charge-rate = Charge rate
+charger-examine = Заряжает [color={ $color }]{ $chargeRate }Вт[/color] в секунду.
+charger-empty = Нет устройств для зарядки
+charger-content = Устройство заряжено на { $chargePercentage }%

@@ -1,10 +1,11 @@
 ## RoundEndSystem
 
-round-end-system-shuttle-called-announcement = An emergency shuttle has been sent. ETA: {$time} {$units}.
-round-end-system-shuttle-already-called-announcement = An emergency shuttle has already been sent.
-round-end-system-shuttle-auto-called-announcement = An automatic crew shift change shuttle has been sent. ETA: {$time} {$units}. Recall the shuttle to extend the shift.
-round-end-system-shuttle-recalled-announcement = The emergency shuttle has been recalled.
-round-end-system-round-restart-eta-announcement = Restarting the round in {$time} {$units}...
+round-end-system-shuttle-called-announcement = Внимание, обитатели Пустоши! Приближается радиоактивная буря! Найдите укрытие в течение: { $time } { $units }.
+round-end-system-shuttle-already-called-announcement = СМЕРТЕЛЬНАЯ ОПАСНОСТЬ! Радиоактивная буря на горизонте. Токсичные ветра вот-вот накроют местность!
+round-end-system-shuttle-auto-called-announcement = КРИТИЧЕСКИЙ УРОВЕНЬ УГРОЗЫ! Датчики показывают запредельную радиацию! Найдите укрытие в течение: { $time } { $units }!
+round-end-system-shuttle-recalled-announcement = Чудеса! Радиоактивный фронт изменил курс. Можете вернуться к своим делам.
 
-eta-units-minutes = minutes
-eta-units-seconds = seconds
+round-end-system-round-restart-eta-announcement = ПРОСТРАНСТВЕННО-ВРЕМЕННАЯ АНОМАЛИЯ! Квантовый сдвиг реальности через { $time } { $units }. Приготовьтесь к новому витку истории в этих выжженных землях!
+
+eta-units-minutes = минут
+eta-units-seconds = секунд

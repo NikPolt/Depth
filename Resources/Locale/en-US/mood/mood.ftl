@@ -1,87 +1,72 @@
-mood-show-effects-start = [font size=12]Mood:[/font]
+﻿mood-show-effects-start = [font size=12]Настроение:[/font]
 
-mood-effect-HungerOverfed = I ate so much, I feel as though I'm about to burst!
-mood-effect-HungerOkay = I am feeling full.
-mood-effect-HungerPeckish = I could go for a snack right about now.
-mood-effect-HungerStarving = I NEED FOOD!
+mood-effect-HungerOverfed = Я съел так много, что мне кажется, я вот-вот лопну!
+mood-effect-HungerOkay = Я сыт.
+mood-effect-HungerPeckish = Я мог бы пойти перекусить немного.
+mood-effect-HungerStarving = Я СДОХНУ ЕСЛИ НЕ ПОЕМ ПРЯМО СЕЙЧАС!!!
 
-mood-effect-ThirstOverHydrated = I've had my fill of water.
-mood-effect-ThirstOkay = I'm feeling refreshed.
-mood-effect-ThirstThirsty = My lips are a little dry.
-mood-effect-ThirstParched = I NEED WATER!
+mood-effect-ThirstOverHydrated = Я выпил слишком много, в меня больше не влезет.
+mood-effect-ThirstOkay = Сейчас я не хочу пить.
+mood-effect-ThirstThirsty = Я бы не отказался выпить чего-нибудь.
+mood-effect-ThirstParched = МНЕ СРОЧНО НУЖНА ВОДА!!!
 
-mood-effect-HealthNoDamage = I'm in no pain.
-mood-effect-HealthLightDamage = It's just a scratch, but it hurts nonetheless
-mood-effect-HealthSevereDamage = The pain is almost unbearable!
-mood-effect-HealthHeavyDamage = Agony gnaws at my soul!
+mood-effect-HealthNoDamage = Мне не больно.
+mood-effect-HealthLightDamage = Это просто царапина, но, всё равно больно.
+mood-effect-HealthSevereDamage = Мне очень больно!
+mood-effect-HealthHeavyDamage = Мне очень больно, это просто ад!
 
-mood-effect-Handcuffed = I am being held captive.
+mood-effect-Handcuffed = Меня держат в плену.
 
-mood-effect-Suffocating = I.. Can't.. Breathe...
+mood-effect-Suffocating = Я... не мог.. Дыша...
 
-mood-effect-OnFire = IT BURNS!!!
+mood-effect-OnFire = Я ГОРЮ!!!
 
-mood-effect-Creampied = I was baptized. It tastes like pie.
+mood-effect-Creampied = Я был крещён. На вкус как пирог.
 
-mood-effect-MobSlipped = I slipped! I should be more careful next time.
+mood-effect-MobSlipped = Я поскользнулся! Мне нужно быть осторожнее в следующий раз.
 
-mood-effect-MobVomit = My lunch tasted awful coming back up.
+mood-effect-MobVomit = Мой обед на вкус ужасен, когда возвращается обратно.
 
-mood-effect-MobLowPressure = My whole body feels like it's going to burst!
+mood-effect-MobLowPressure = Всё моё тело чувствует, будто вот-вот взорвётся!
 
-mood-effect-MobHighPressure = I feel as though I am being crushed on all sides!
+mood-effect-MobHighPressure = Я чувствую, будто меня обнимают ОЧЕНЬ СИЛЬНО! ААА!!
 
-mood-effect-TraitSaturnine = Everything kind of sucks. I hate this job.
+mood-effect-TraitSaturnine = Всё как-то плохо. Я ненавижу эту работу.
 
-mood-effect-Dead = You are dead.
+mood-effect-Dead = Вы мертвы.
 
-mood-effect-BeingHugged = Hugs are nice.
+mood-effect-BeingHugged = Объятия приятны.
 
-mood-effect-BeingPet = Someone pet me!
+mood-effect-BeingPet = Кто-то погладил меня!
 
-mood-effect-ArcadePlay = I had fun playing an interesting arcade game.
+mood-effect-ArcadePlay = Мне было весело играть в аркадную игру.
 
-mood-effect-GotBlessed = I was blessed.
+mood-effect-GotBlessed = Я был благословлён.
 
-mood-effect-PetAnimal = Animals are so cute, I can't stop petting them!
+mood-effect-PetAnimal = Животные такие милые, я не могу перестать их гладить!
 
-mood-effect-SavedLife = It's so nice to save someone's life
+mood-effect-SavedLife = Так приятно спасти чью-то жизнь.
 
-mood-effect-TraitorFocused = I have a goal, and I will accomplish it no matter what.
+mood-effect-TraitorFocused = У меня есть цель, и я её достигну, чего бы это ни стоило.
 
-mood-effect-RevolutionFocused = VIVA LA REVOLUTION!!!
+mood-effect-RevolutionFocused = ДА ЗДРАВСТВУЕТ РЕВОЛЮЦИЯ!!!
 
-mood-effect-CultFocused = Dark Gods, grant me strength!
+mood-effect-CultFocused = Тёмные Боги, даруйте мне силу!
 
-mood-effect-TraitSanguine = I have nothing to worry about. I'm sure everything will turn out well in the end!
+mood-effect-TraitSanguine = Мне не о чем беспокоиться. Я уверен, что в конце концов всё будет хорошо!
 
-mood-effect-HeirloomSecure = My heirloom is safe, and with it the memories of the ones before me.
-mood-effect-HeirloomLost = I can't seem to find my heirloom, how will the past be safe now?
-
-# Addictions
+# Зависимости
 mood-effect-LotoTranscendence =
-    I CAN SEE ALL THAT IS, ALL THAT WILL EVER BE, AND ALL THAT EVER WAS. ALL OF CREATION HAS OPENED TO MY MIND!
-    I MUST HAVE IT ALL. I MUST KNOW IT ALL. ALL OF IT. FOREVER!
+    Я в своем познании настолько преисполнился, что я как будто бы уже
+    сто триллионов миллиардов лет проживаю на триллионах и
+    триллионах таких же планет, как эта, мне этот мир абсолютно
+    понятен, и я здесь ищу только одного - покоя, умиротворения и
+    вот этой гармонии, от слияния с бесконечно вечным
 mood-effect-LotoEnthrallment =
-    It has fled from me... The heart of all creation is gone from my soul, leaving behind an emptiness I cannot bear.
-    I fear that I will wither to nothing if I cannot drink from the cup of knowledge once again.
+    Оно убежало от меня... Сердце всего творения исчезло из моей души, оставив пустоту, которую я не могу вынести.
+    Я боюсь, что исчезну, если не смогу снова испить из чаши знаний.
 
 mood-effect-NicotineBenefit =
-    I feel as if I have been standing my entire life and I just sat down.
+    Я чувствую, будто стоял всю свою жизнь, и вот наконец сел.
 mood-effect-NicotineWithdrawal =
-    I could really go for a smoke right now.
-
-# Surgery
-mood-effect-SurgeryPain = The surgery hurts.
-# Drugs
-mood-effect-EthanolBenefit =
-    I feel so relaxed from drinking.
-mood-effect-SpaceDrugsBenefit =
-    Woaaaah, such pretty colors maaaaan. It's like I can hear color and taste sound maaan.
-
-# Plasmaman
-mood-effect-PlasmamanIngestPlasma =
-    My body is rejuvenated by the fresh plasma coursing through my body.
-
-mood-effect-PlasmamanIngestMilk =
-    I can feel the milk's calcium repairing my bones. This is dairy-lightful!
+    Сейчас мне бы не помешала сигарета.

@@ -1,126 +1,135 @@
-# Midwest Brotherhood
-job-name-bos-mid-paladin-comm = Brotherhood Paladin Lord
-job-description-bos-mid-paladin-comm = Lead the Midwestern Brotherhood of Steel on their mission in this region.
-job-name-bos-mid-paladin = Brotherhood Paladin
-job-description-bos-mid-paladin = Assist the Paladin Lord as their second in command & heavy infantry.
-job-name-bos-mid-knight = Brotherhood Knight
-job-description-bos-mid-knight = Follow the Paladins on their mission for the chapter.
-job-name-bos-mid-scribe = Brotherhood Scribe
-job-description-bos-mid-scribe = Conduct scientific missions and research for your chapter.
-job-name-bos-mid-squire = Brotherhood Initiate
-job-description-bos-mid-squire = Follow the orders of your superiors and prove your worth.
-
-# Washington Brotherhood
-job-name-bos-washington-commander = Brotherhood Commander
-job-description-bos-washington-commander = Lead the Washington Brotherhood of Steel on their mission.
-job-name-bos-washington-initiate = Brotherhood Initiate
-job-description-bos-washington-initiate = Follow the orders of your superiors and prove your worth.
-job-name-bos-washington-knight = Brotherhood Knight
-job-description-bos-washington-knight = Follow the Paladins on their mission for the chapter.
-job-name-bos-washington-paladin = Brotherhood Paladin
-job-description-bos-washington-paladin = Assist the Paladin Commander as their second in command & heavy infantry.
-job-name-bos-washington-scribe = Brotherhood Cleric
-job-description-bos-washington-scribe = Conduct scientific missions and research for your chapter.
-
-# Caravan
-job-name-caravan-leader = Caravan Leader
-job-description-caravan-leader = Coordinate the caravan company in the area and strike up trade deals with the locals.
-job-name-caravan-trader = Caravan Trader
-job-description-caravan-trader = Conduct trade missions and travel caravan routes to generate profit for the company.
-job-name-caravan-guard = Caravan Guard
-job-description-caravan-guard = Protect the caravan company traders, their livestock, and their inventory.
-
-# NCR
-job-name-ncr-cadet = NCR Cadet
-job-description-ncr-cadet = Prove to the officers that you're ready to become a soldier of the NCR army.
-job-name-ncr-medic = NCR Medic
-job-description-ncr-medic = Treat the troops and offer services to the wasteland people.
-job-name-ncr-sgt = NCR Sergeant
-job-description-ncr-sgt = A non-commissioned officer in the NCR military. Lead a squad to protect the NCR interests in the region.
-job-name-ncr-lt = NCR Lieutenant
-job-description-ncr-lt = The local leader of the NCR military. Fulfill your mission by coordinating your military forces in the area. Organise your Sergeants.
-job-name-ncr-soldier = NCR Trooper
-job-description-ncr-soldier = The backbone of any military. Troopers get stuff done and follow a Sergeant on missions.
-job-name-ncr-engineer = NCR Engineer
-job-description-ncr-engineer = The backbone of any squad. Repair equipment, establish defenses, and follow a Sergeant on missions.
-job-name-ncr-ws = NCR Weapon Specialist
-job-description-ncr-ws = The fire support of any squad. Lay down supportive fire, and follow a Sergeant on missions.
-job-name-ncr-ranger = NCR Ranger
-job-description-ncr-ranger = The experienced recon units and saboteurs for the local NCR Army detachment. Dispense justice for the common man and follow the Veteran Ranger on missions.
-job-name-ncr-ranger-veteran = NCR Ranger Veteran
-job-description-ncr-ranger-veteran = The most experienced Rangers within their ranks. Organise your Rangers and help the common folk, you answer directly to the Lieutenant.
-
-# Rangers
-job-name-ranger-recruit = Desert Ranger Recruit
-job-description-ranger-recruit = You've just been accepted within the Desert Rangers. Prove yourself worthy by learning the ropes and helping the wasteland become a better place.
-job-name-ranger-ranking = Desert Ranger
-job-description-ranger-ranking = As an Ranger, you are the vigilante the wasteland needs. Your mission is to keep the wasteland safe for the innocent and bring justice to the raider gangs, as well as continuing the tradition of stopping slavery in it's tracks.
-job-name-ranger-chief = Chief Desert Ranger
-job-description-ranger-chief = As Chief Desert Ranger, you lead all ranger operations, ensuring the safety and training of your ranks. Your mission is to forge alliances, direct large-scale missions, and maintain the legacy of justice in the wasteland.
-job-name-ranger-veteran = Desert Ranger Veteran
-job-description-ranger-veteran = You answer to yourself, working either independently or with your team to complete your mission objectives however required, operating either alone, in a squad or with one of the other factions. Your primary mission is to improve the situation of the wasteland and to neutralize slavers and raiders operating in the area.
-
-# Tribal
-job-name-tribal = Tribesperson
-job-description-tribal = Maintain your tribes way of life in the wasteland at all costs. Security, crafting, homelife, you do it all.
-job-name-tribal-elder = Tribe Elder
-job-description-tribal-elder = Lead your tribe through good times and bad times and maintain your beliefs.
-job-name-tribal-farmer = Tribal Farmer
-job-description-tribal-farmer = Produce food and goods for the tribe to sustain your living.
-job-name-tribal-healer = Tribal Healer
-job-description-tribal-healer = Produce medicines and compounds for the tribe, as is tradition.
-
-# Vault
-job-name-overseer = Vault Overseer
-job-description-overseer = Follow Vault-Tec's objectives in managing your Vault and ensure everything goes to plan...
-job-name-vault-doctor = Vault Doctor
-job-description-vault-doctor = Maintain the health and well-being of your fellow Vault Dwellers. Conduct research where necessary.
-job-name-vault-dweller = Vault Dweller
-job-description-vault-dweller = The general populace of the Vault. Live a comfortable life and pull your own weight where necessary.
-job-name-vault-engineer = Vault Engineer
-job-description-vault-engineer = Maintain the Vault and all its vital systems to ensure a comfortable and safe life.
-job-name-vault-security = Vault Security
-job-description-vault-security = Keep order within the Vault and report to the Overseer. For the good of the Vault!
-
-# Wasteland
-job-name-farmer = Farmer
-job-description-farmer = Produce crops in the wasteland for yourself or to barter with others.
-job-name-waste-musician = Musician
-job-description-waste-musician = This role is going to be removed from the game, please set your preference to "NEVER" on all your characters!
-job-name-scavenger = Scavenger
-job-description-scavenger = This role is going to be removed from the game, please set your preference to "NEVER" on all your characters!
-job-name-wastelander = Wastelander
-job-description-wastelander = Survive in the wasteland and carve out your own path. It's tough out there alone, consider finding others.
-
-# Town
-job-name-townsperson = Townsperson
-job-description-townsperson = A member of the post-war society. Follow the town rules or try run for Mayor to change them.
-job-name-towndoctor = Town Doctor
-job-description-towndoctor = Sell your medical knowledge as a service. Treat the injured for money and manage a doctors practice in town.
-job-name-townmechanic = Town Mechanic
-job-description-townmechanic = Maintain the towns services and infrastructure and do what you can on the side for others for money.
-job-name-townshopkeeper = Town Shopkeeper
-job-description-townshopkeeper = Setup shop in town, organise trade partnerships, and sell your wares to the wanderers of the wastes. Beware the tax man.
-job-name-towndeputy = Town's Guard
-job-description-towndeputy = A law enforcement worker for the town. Keep the peace and provide backup to your Marshal.
-job-name-townsheriff = Town Marshal
-job-description-townsheriff = Maintain law and order within the town and support the Mayor in their rule.
-job-name-townmayor = Town Mayor
-job-description-townmayor = Maintain civilisation in the town. Set taxes and laws and try not to be thrown out or taken over.
-job-name-townreporter = Town Reporter
-job-description-townreporter = Interview people, spread the news across the region, or just have a talk show!
-job-name-townbartender = Town Innkeeper
-job-description-townbartender = Manage the local bar, kitchen, and rooms that are there for renting. Run a business in town!
-
-# Followers
-job-name-followers = Followers of the Apocalypse
-job-description-followers = Push the ethos of the Followers further into the wastes. Treat the population for the greater good.
-
-# Fun
-job-name-survivor = Survivor
-job-description-survivor = Survive as long as you can! It never ends.
-job-name-zetan = Zetan abductor
-job-description-zetan = For the mothership! Research the local population to fulfil your objectives.
-
-# N14 Role Timers # Is this needed?
-Survivor = Survivor
+# N14
+# СЗБС
+job-name-bos-mid-paladin-comm = командир СЗБС
+job-description-bos-mid-paladin-comm = Возглавьте миссию Среднезападного Братства Стали.
+job-name-bos-mid-paladin = паладин СЗБС
+job-description-bos-mid-paladin = Следуйте за командиром, и добивайтесь выполнения миссии!
+job-name-bos-mid-knight = рыцарь СЗБС
+job-description-bos-mid-knight = Следуйте за командиром, и добивайтесь выполнения миссии!
+job-name-bos-mid-scribe = скриптер СЗБС
+job-description-bos-mid-scribe = Проводите научные миссии и исследования для вашего отделения Братства.
+job-name-bos-mid-squire = оруженосец СЗБС
+job-description-bos-mid-squire = Следуйте за своим рыцарем в бой и выполняйте его приказы.
+job-name-bos-mid-inquisitor = инквизитор СЗБС
+job-description-bos-mid-inquisitor = Дезертиры... Вы тот, кого они боятся. Инквизитор, исполняющий роль Военной Полиции на территории братства, карайте врагов и подчиняйтесь командиру.
+job-name-BoS-Mid-Serf = Серф СЗБС
+job-description-bos-mid-Serf = Вы раб, вы обязаны служить СЗБС, ваша жизнь в их руках
+# ВБС
+job-name-bos-washington-commander = командир ВБС
+job-description-bos-washington-commander = Ведите Вашингтонское Братство Стали к выполнению вашей задачи.
+job-name-bos-washington-initiate = послушник ВБС
+job-description-bos-washington-initiate = Докажите свою ценность отделению, чтобы продвинуться по рангам.
+job-name-bos-washington-knight = рыцарь ВБС
+job-description-bos-washington-knight = Военная сила Братства Стали. Защищайте свое отделение в их целях и производите снаряжение.
+job-name-bos-washington-paladin = паладин ВБС
+job-description-bos-washington-paladin = Защищайте братство любой ценой. Воплощайте волю командира в пустоши.
+job-name-bos-washington-scribe = скриптер ВБС
+job-description-bos-washington-scribe = Проводите научные миссии и исследования для вашего отделения Братства.
+# Караван
+job-name-caravan-leader = глава каравана
+job-description-caravan-leader = Координируйте караванную компанию в регионе и заключайте торговые сделки с местными.
+job-name-caravan-trader = караванщик
+job-description-caravan-trader = Проводите торговые миссии и путешествуйте по караванным маршрутам, чтобы получать прибыль для компании.
+job-name-caravan-guard = охранник каравана
+job-description-caravan-guard = Защищайте торговцев караванной компании, их скот и товары. Но в первую очередь всё же товары.
+# НКР
+job-name-ncr-engineer = инженер НКР
+job-description-ncr-engineer = Разрабатывайте и внедряйте технологии для восстановления и улучшения инфраструктуры Новой Калифорнийской Республики, сотрудничая с другими фракциями для обеспечения эффективного использования ресурсов в условиях пустоши.
+job-name-ncr-medic = врач НКР
+job-description-ncr-medic = Лечите солдат и предоставляйте медицинские услуги жителям Пустоши.
+job-name-ncr-ws = штурмовик НКР
+job-description-ncr-ws = Огневая поддержка любого подразделения. Ведите вспомогательный огонь и используйте специальное оружие, недоступное другим. Выполняйте задания вместе с сержантом.
+job-name-ncr-cadet = кадет НКР
+job-description-ncr-cadet = Самый младший ранг в армии Новой Калифорнийской Республики. Покажите всю свою доблесть и отвагу, и тогда, с некоторым шансом, вас всё же повысят. Но это не точно.
+job-name-ncr-soldier = солдат НКР
+job-description-ncr-soldier = Основа любой армии. Солдаты слепо выполняют задачи на миссиях и рвутся на передовую в боевых столкновениях. Под злостные вопли своего сержанта, разумеется.
+job-name-ncr-sgt = сержант НКР
+job-description-ncr-sgt = Младший офицер в армии Новой Калифорнийской Республики. Возглавьте отряд солдат для защиты интересов НКР в регионе.
+job-name-ncr-lt = офицер НКР
+job-description-ncr-lt = Региональный лидер армии Новой Калифорнийской Республики. Выполняйте свою миссию, управляя выделенным вам взводом солдат.
+job-name-ncr-ranger = рейнджер НКР
+job-description-ncr-ranger = Элита среди элит, гроза Пустоши. Ведите отряды или действуйте в одиночку, воплощая волю республики огнём и мечом.
+job-name-ncr-ranger-veteran = ветеран-рейнджер НКР
+job-description-ncr-ranger-veteran =  Самые опытные и стойкие солдаты входят в эту элитную группу армии Новой Калифорнийской Республики, возглавляйте войска или действуйте самостоятельно по приказам республики.
+job-name-ncr-prisoner = Заключенный НКР
+job-description-ncr-prisoner = Вы заключённый, слушайте вашего надзирателя, он уполномочен распоряжаться вами как угодно
+job-name-ncr-mp-investegator = Следователь ВП НКР
+job-description-ncr-mp-investegator = Вы прибыли сюда, чтобы поддерживать соблюдение устава
+# Рейнджеры
+job-name-ranger-recruit = рейнджер-рекрут
+job-description-ranger-recruit = Вас только что приняли в Пустынные Рейнджеры. Докажите, что вы достойны, изучая основы и помогая Пустоши стать лучше.
+job-name-ranger-chief = глава пустынных рейнджеров
+job-description-ranger-chief = Вы - мозг, сердце и душа Пустынных Рейнджеров. Куйте союзы, планируйте операции и храните священное пламя справедливости в этом безумном мире. Пустошь смотрит на вас с надеждой... или страхом.
+job-name-ranger-ranking = рейнджер
+job-description-ranger-ranking = Как рейнджер, вы тот vigilante, в котором нуждается Пустошь. Ваша миссия - обеспечивать безопасность невинных в Пустоши и нести правосудие бандам рейдеров, а также продолжать традицию борьбы с рабством.
+job-name-ranger-veteran = ветеран-рейнджер
+job-description-ranger-veteran = Вы подчиняетесь только себе, работая независимо или в команде для выполнения целей миссии любыми необходимыми средствами, действуя в одиночку, в отряде или с другими фракциями. Ваша основная задача - улучшить ситуацию в Пустоши и нейтрализовать работорговцев и рейдеров, действующих в регионе.
+# Племя унга-бунг
+job-name-tribal = член племени
+job-description-tribal = Поддерживайте образ жизни вашего племени в Пустоши любой ценой. Безопасность, ремесло, благополучие, быт - вы делаете всё.
+job-name-tribal-elder = старейшина племени
+job-description-tribal-elder = Ведите своё племя через хорошие и плохие времена, сохраняя ваши верования.
+job-name-tribal-farmer = племенной фермер
+job-description-tribal-farmer = Производите пищу и товары для племени, чтобы поддерживать его существование.
+job-name-tribal-healer = племенной знахарь
+job-description-tribal-healer = Создавайте лекарства и снадобья для племени, как велит традиция.
+# Убежище
+# Смотрителю нужно также добавить `vault-`
+job-name-overseer = смотритель убежища
+job-description-overseer = Следуйте целям Волт-Тек в управлении вашим Убежищем и обеспечьте, чтобы всё шло по плану...
+job-name-vault-doctor = врач убежища
+job-description-vault-doctor = Поддерживайте здоровье и благополучие ваших сожителей по Убежищу. Проводите исследования при необходимости.
+job-name-vault-dweller = резидент убежища
+job-description-vault-dweller = Обычное население Убежища. Живите комфортной жизнью и вносите свой вклад, где необходимо.
+job-name-vault-engineer = инженер убежища
+job-description-vault-engineer = Поддерживайте Убежище и все его жизненно важные системы для обеспечения комфортной и безопасной жизни.
+job-name-vault-security = охранник убежища
+job-description-vault-security = Поддерживайте порядок в Убежище и отчитывайтесь перед Смотрителем. На благо Убежища!
+# Жители пустошей
+# Нужно добавить между `name`\`description` & `$НАЗВАНИЕ_РОЛИ`: `wastelander`
+job-name-farmer = фермер пустошей
+job-description-farmer = Выращивайте урожай прямо в эпицентре взрыва атомной бомбы, чтобы показать всем, насколько вы крут!
+job-name-scavenger = мусорщик
+job-description-scavenger = Обыскивайте руины пустоши в поисках довоенных сокровищ и припасов для торговли.
+job-name-wastelander = обитатель пустоши
+job-description-wastelander = Выживайте в пустоши и прокладывайте свой собственный путь. Одному будет тяжело, подумайте о том чтобы найти товарищей.
+job-name-waste-musician = музыкант
+job-description-waste-musician = Подарите этому жестокому миру музыку.
+# Город
+job-name-townsperson = горожанин
+job-description-townsperson = Вы - член нового общества. Следуйте порядкам города или попробуйте баллотироваться на пост мэра, чтобы изменить их.
+job-name-towndoctor = городской врач
+job-description-towndoctor = Продавайте свои медицинские знания как услугу. Лечите раненых за деньги и управляйте врачебной практикой в городе.
+job-name-townmechanic = городской механик
+job-description-townmechanic = Поддерживайте городские службы и инфраструктуру в рабочем состоянии, а также подрабатывайте на стороне, помогая другим за деньги.
+job-name-townshopkeeper = городской лавочник
+job-description-townshopkeeper = Откройте магазин в городе, организуйте торговые партнерства и продавайте свои товары бродягам Пустоши. Остерегайтесь налогового инспекции от НКР!
+job-name-townshopkeeperhelper = помощник лавочника
+job-description-townshopkeeperhelper = Обеспечивайте помощь лавочнику, станьте его верным помощником, торгуйте и поддерживайте лавку в чистоте.
+job-name-towndeputy = помощник шерифа
+job-description-towndeputy = Заместитель хранителя порядка в городе. Поддерживайте мир и помогайте шерифу.
+job-name-townsheriff = городской шериф
+job-description-townsheriff = Поддерживайте закон и порядок в городе. Не допустите разграбления арсенала группой уличных мусорщиков.
+job-name-townmayor = мэр города
+job-description-townmayor = Поддерживайте жизнь в городе. Устанавливайте налоги и законы. Постарайтесь не быть свергнутым собственными горожанами.
+job-name-townreporter = городской репортер
+job-description-townreporter = Беседуйте с людьми и распространяйте новости по региону, или просто ведите ток-шоу!
+job-name-townbartender = городской управляющий
+job-description-townbartender = Управляйте местным баром, кухней и комнатами, которые сдаются в аренду. Ведите бизнес в городе!
+# Последователи
+job-name-followers = последователь апокалипсиса
+job-description-followers = Продвигайте идеологию Последователей дальше в Пустошь. Дарите людям веру в светлое будущее!
+# Развлечения
+job-name-survivor = выживший
+job-description-survivor = Выживайте как можно дольше! Это никогда не кончается.
+job-name-zetan = зетанец-похититель
+job-description-zetan = Во имя материнского корабля! Исследуйте местную флору и фауну для выполнения ваших целей.
+# N14 Таймеры ролей #
+Survivor = Выживший
+# Рейдеры
+job-name-raider = рейдер пустоши
+job-description-raider =
+    Вы не считаете себя рейдером — просто делаете что нужно для выживания.
+    Иногда это торговля, иногда — пуля в спину прохожего.
+    Пустошь не оставляет места морали, и вы давно это поняли.
+    Главное — чтобы в конце дня вы были живы, а ваш противник — нет

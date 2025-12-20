@@ -1,33 +1,32 @@
-# see en-US/flavors for upstream flavors you can use. This file is for Nuclear14 specific flavors only. See that file for a guide on flavor profiles.
+# См. en-US/flavors для оригинальных описаний. Этот файл предназначен только для Nuclear14. Руководство по стилю описаний см. в оригинальном файле.
 
-# Food-specific flavors.
-## Basic foodstuffs (ingredients, generic flavors)
+# Вкусы еды.
+## Базовые продукты (ингредиенты, общие описания)
 
-## Complex foodstuffs (cooked foods, joke flavors, etc)
-flavor-complex-tato = like worse tomatoes and potatoes
-
-
-# Drink-specific flavors.
-## Basic drinks
-flavor-complex-nuka-cola = indescribably like cesium
-flavor-complex-nuka-cola-wild = indescribably like cesium and root beer
-flavor-complex-nuka-cola-quartz = indescribably like cesium and vanilla
-flavor-complex-nuka-cola-quantum = indescribably like cesium and glowing berries
-flavor-complex-nuka-cola-victory = indescribable, suspiciously like chocolate milk
-flavor-complex-nuka-cola-orange = indescribably like cesium and oranges
-flavor-complex-nuka-cola-yellow = tastes like piss
-flavor-complex-nuka-cola-grape = indescribably like cesium and grape
-flavor-complex-nuka-cola-cherry = indescribably like cesium and cherry
-flavor-complex-nuka-cola-irradiated = indescribable, oddly salty, with a metal tinge
-flavor-complex-nuka-cola-clear = like water
-flavor-complex-vim = oddly like chocolate pudding
-flavor-complex-vim-captains-blend = oddly like chocolate pudding and shrimp
-flavor-complex-vim-refresh = minty
-flavor-complex-vim-quartz = oddly like chocolate pudding and cesium
+## Сложные блюда (готовые блюда, шуточные описания и т.д.)
+flavor-complex-tato = на вкус как гибрид помидора и картошки, только хуже
 
 
-## Cocktails
+# Вкусы напитков.
+## Базовые напитки
+flavor-complex-nuka-cola = непередаваемый вкус цезия
+flavor-complex-nuka-cola-wild = непередаваемая смесь цезия и рутбира
+flavor-complex-nuka-cola-quartz = цезий с ванильными нотками
+flavor-complex-nuka-cola-quantum = цезий и светящиеся ягоды
+flavor-complex-nuka-cola-victory = непередаваемо, подозрительно похоже на шоколадное молоко
+flavor-complex-nuka-cola-orange = цезий с апельсиновым послевкусием
+flavor-complex-nuka-cola-yellow = на вкус как моча
+flavor-complex-nuka-cola-grape = цезий с виноградным оттенком
+flavor-complex-nuka-cola-cherry = цезий с вишнёвым привкусом
+flavor-complex-nuka-cola-irradiated = непередаваемо, странно солёный с металлическим оттенком
+flavor-complex-nuka-cola-clear = как вода
+flavor-complex-vim = странно напоминает шоколадный пудинг
+flavor-complex-vim-captains-blend = шоколадный пудинг с креветочным послевкусием
+flavor-complex-vim-refresh = мятный
+flavor-complex-vim-quartz = шоколадный пудинг с привкусом цезия
 
 
-# Medicine/chemical-specific flavors.
+## Коктейли
 
+
+# Вкусы медикаментов/химикатов.

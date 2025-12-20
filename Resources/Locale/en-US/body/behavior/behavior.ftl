@@ -1,2 +1,1 @@
-lung-behavior-gasp = Gasp
-silicon-behavior-buzz = Bzzzzt...
+lung-behavior-gasp = Задыхается

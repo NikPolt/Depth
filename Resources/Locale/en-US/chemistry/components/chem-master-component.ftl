@@ -1,43 +1,46 @@
 ## Entity
 
-chem-master-component-activate-no-hands = You have no hands.
-chem-master-component-cannot-put-entity-message = You can't put this in the ChemMaster!
+chem-master-component-activate-no-hands = У вас нет рук.
+chem-master-component-cannot-put-entity-message = Вы не можете поместить это в ХимМастер!
 
 ## Bound UI
-chem-master-bound-user-interface-title = ChemMaster 4000
+
+chem-master-bound-user-interface-title = ХимМастер 4000
 
 ## UI
 
-chem-master-window-input-tab = Input
-chem-master-window-output-tab = Output
-chem-master-window-pill-buffer-tab = Pill Buffer
-chem-master-window-container-label =   Container
-chem-master-window-amount-placeholder = Transfer Amount
-chem-master-window-eject-button = Eject
-chem-master-window-no-container-loaded-text = No container loaded.
-chem-master-window-buffer-text = Buffer
-chem-master-window-buffer-label = buffer:
-chem-master-window-buffer-empty-text = Buffer empty.
-chem-master-window-buffer-low-text = Not enough solution in buffer
-chem-master-window-pill-buffer-text = Pill Buffer
-chem-master-window-pill-buffer-label = pill buffer:
-chem-master-window-pill-buffer-empty-text = Pill buffer empty.
-chem-master-window-pill-buffer-low-text = Not enough solution in pill buffer
-chem-master-window-transfer-button = Transfer
-chem-master-window-sort-method-tooltip = Choose your buffer's sort method.
-chem-master-window-sort-method-Time-text = Last Added
-chem-master-window-sort-method-Alphabetical-text = Alphabetical Order
-chem-master-window-sort-method-Amount-text = Quantity
-chem-master-window-transferring-label =    Transferring: [color={$color}]{$quantity}[/color]
-chem-master-window-transferring-default-label =    Transferring: [color=#ffffff]50[/color]
-chem-master-window-reagent-move-button = Move
-chem-master-window-discard-button = Discard
-chem-master-window-packaging-text = Packaging
-chem-master-current-text-label = Label:
-chem-master-window-pills-label = Pills:
-chem-master-window-pill-type-label = Pill type:
-chem-master-window-pills-number-label = Count:
-chem-master-window-dose-label = Dose (u):
-chem-master-window-create-button = Create
-chem-master-window-bottles-label = Bottles:
-chem-master-window-unknown-reagent-text = Unknown reagent
+chem-master-window-input-tab = Вход
+chem-master-window-output-tab = Выход
+chem-master-window-container-label = Контейнер
+chem-master-window-eject-button = Извлечь
+chem-master-window-no-container-loaded-text = Контейнер не загружен.
+chem-master-window-buffer-text = Буфер
+chem-master-window-buffer-label = буфер:
+chem-master-window-buffer-all-amount = Всё
+chem-master-window-buffer-empty-text = Буфер пуст.
+chem-master-window-buffer-low-text = Недостаточно раствора в буфере
+chem-master-window-transfer-button = Перенести
+chem-master-window-discard-button = Уничтожить
+chem-master-window-packaging-text = Упаковка
+chem-master-current-text-label = Метка:
+chem-master-window-pills-label = Таблетка:
+chem-master-window-pill-type-label = Тип таблеток:
+chem-master-window-pills-number-label = Кол-во:
+chem-master-window-dose-label = Дозировка (ед.):
+chem-master-window-create-button = Создать
+chem-master-window-bottles-label = Бутылочки:
+chem-master-window-unknown-reagent-text = Неизвестный реагент
+
+chem-master-window-pill-buffer-tab = Буфер таблеток
+chem-master-window-amount-placeholder = Количество для переноса
+chem-master-window-pill-buffer-text = Буфер таблеток
+chem-master-window-pill-buffer-label = Буфер таблеток:
+chem-master-window-pill-buffer-empty-text = Буфер таблеток пуст.
+chem-master-window-pill-buffer-low-text = Недостаточно раствора в буфере таблеток
+chem-master-window-sort-method-tooltip = Выберите метод сортировки буфера.
+chem-master-window-sort-method-Time-text = По новизне
+chem-master-window-sort-method-Alphabetical-text = По алфавиту
+chem-master-window-sort-method-Amount-text = По количеству
+chem-master-window-transferring-label =    Переносится: [color={$color}]{$quantity}[/color]
+chem-master-window-transferring-default-label =    Переносится: [color=#ffffff]50[/color]
+chem-master-window-reagent-move-button = Переместить

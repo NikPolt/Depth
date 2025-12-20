@@ -1,3 +1,3 @@
-wave-defence-end-text = The defenders survived {$number} rounds, with {$kills} kills and a high score of {$score}
-wave-defence-participants = The brave defenders were:
-wave-defence-new-wave = Wave {$number} has begun!
+wave-defence-end-text = Вы продержались { $number } волн, совершив { $kills } убийств и со счётом { $score }
+wave-defence-participants = Защитниками были:
+wave-defence-new-wave = Начинается { $number } волна!

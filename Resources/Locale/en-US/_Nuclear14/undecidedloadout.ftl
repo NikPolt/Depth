@@ -1,490 +1,622 @@
-undecided-loadout-window-title = Undecided Loadout Kit
+undecided-loadout-window-title = Набор снаряжения
 
 undecided-loadout-window-description =
-    Choose 1 loadout kit.
+    Выберите 1 комплект снаряжения.
 
-undecided-loadout-window-selected = Kits selected: ({$selectedCount}/{$maxCount})
+undecided-loadout-window-selected = Выбрано наборов: ({$selectedCount}/{$maxCount})
 
-undecided-loadout-window-approve-button = Approve
-undecided-loadout-button-select = Select [  ]
-undecided-loadout-button-deselect = Select [X]
+undecided-loadout-window-approve-button = Подтвердить
+undecided-loadout-button-select = Выбрать [  ]
+undecided-loadout-button-deselect = Выбрать [X]
 
-# NCRA Cadet Sets
+# Наборы кадетов НКР
 
-undecided-loadout-category-cadet-rifleman-name = Cadet Rifleman Kit
+undecided-loadout-category-cadet-rifleman-name = Набор кадета-стрелка
 undecided-loadout-category-cadet-rifleman-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 service rifle, 3 5.56 service rifle magazines,
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 кожаный жилет НКР, 1 подсумок НКР, 1 служебную винтовку,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-cadet-storm-name = Cadet Stormtrooper Kit
+undecided-loadout-category-cadet-storm-name = Набор кадета-штурмовика
 undecided-loadout-category-cadet-storm-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 butchered service rifle, 3 5.56 service rifle magazines, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 кожаный жилет НКР, 1 подсумок НКР, 1 укороченную служебную винтовку,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-cadet-scout-name = Cadet Scout Kit
+undecided-loadout-category-cadet-scout-name = Набор кадета-разведчика
 undecided-loadout-category-cadet-scout-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 lever-action carbine, 1 box of .44 ammo, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 кожаный жилет НКР, 1 подсумок НКР, 1 карабин с рычажным механизмом,
+    1 коробку патронов .44, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-# NCRA Soldier Sets
+# Наборы солдат НКР
 
-undecided-loadout-category-soldier-rifleman-name = Soldier Rifleman Kit
+undecided-loadout-category-soldier-rifleman-name = Набор солдата-стрелка
 undecided-loadout-category-soldier-rifleman-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 service rifle, 3 5.56 service rifle magazines, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 пояс НКР, 1 служебную винтовку,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-soldier-storm-name = Soldier Stormtrooper Kit
+undecided-loadout-category-soldier-storm-name = Набор солдата-штурмовика
 undecided-loadout-category-soldier-storm-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 butchered service rifle, 3 5.56 service rifle magazines,
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит:  1 пояс НКР, 1 укороченную служебную винтовку,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-soldier-scout-name = Soldier Scout Kit
+undecided-loadout-category-soldier-scout-name = Набор солдата-разведчика
 undecided-loadout-category-soldier-scout-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 hunting rifle, 1 box of .308 ammo, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 пояс НКР, 1 карабин с рычажным механизмом,
+    1 коробку патронов .44, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-soldier-point-name = Soldier Pointman Kit
+undecided-loadout-category-soldier-point-name = Набор солдата-авангарда
 undecided-loadout-category-soldier-point-description =
-    A crate containing all a NCR soldier needs to patrol on the wasteland.
-    Includes 1 pump-action shotgun, 1 box of 12 gauge ammo, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для патрулирования пустошей солдатом НКР.
+    Содержит: 1 пояс НКР, 1 помповый дробовик,
+    1 коробку патронов 12 калибра, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-soldier-morale-name = Morale Booster Kit
+undecided-loadout-category-soldier-morale-name = Набор поднятия боевого духа
 undecided-loadout-category-soldier-morale-description =
-    A crate containing all a trooper needs to engage the enemy in glorious melee combat.
-    Includes 1 hatchet, 1 NCR spear flag, 1 9mm pistol, 
-    2 9mm magazines, 1 Psycho, C ration MRE, 1 stimpak, 
-    1 Rad-X pill, 1 bandage pack and a torch.
+    Ящик со всем необходимым для славного ближнего боя.
+    Содержит: 1 латный доспех НКР, 1 латную маску, 1 пояс НКР, 1 топорик,
+    1 копьё-флаг НКР, 1 9мм пистолет, 2 магазина 9мм, 1 Психо,
+    сухпаёк типа C, 1 стимпак, 1 таблетку Рад-X, 1 набор бинтов и сигнальную ракету.
 
-# NCRA Engineer Kits
+# Наборы инженеров НКР
 
-undecided-loadout-category-engi-mechanic-name = Engineer Construction Kit
+undecided-loadout-category-engi-mechanic-name = Набор инженера-механика
 undecided-loadout-category-engi-mechanic-description =
-    A crate containing all a NCR engineer to perform their job at peak efficiency.
-    Includes 1 utility belt, 1 butchered service rifle, 3 5.56 rifle magazines,
-    1 9mm pistol, 2 9mm pistol magazines, 30 iron scraps, 10 glass sheets,
-    30 wood planks, C ration MRE, 1 stimpak, 1 Radaway, 1 bandage pack and a torch.
+    Ящик со всем необходимым для эффективной работы инженера НКР.
+    Содержит: 1 инженерный пояс, 1 9мм ПП, 3 магазина 9мм,
+    1 9мм пистолет, 2 магазина 9мм, 30 железного лома, 10 стеклянных листов, 30 деревянных досок,
+    сухпаёк типа C, 1 стимпак, 1 Радавей, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-engi-demo-name = Engineer Sapper Kit
+undecided-loadout-category-engi-demo-name = Набор инженера-подрывника
 undecided-loadout-category-engi-demo-description =
-    A crate containing all a NCR engineer needs to rip and blow stuff up!
-    Includes 1 ripper, 1 sawed off shotgun, 1 box of 12 gauge shells, 
-    1 9mm SMG, 3 9mm smg magazines, 1 C4, C ration MRE, 
-    1 stimpak, 1 Radaway, 1 bandage pack and a torch.
+    Ящик со всем необходимым для подрыва всего и вся!
+    Содержит: 1 инженерный пояс, 1 "Риппер", 1 помповый дробовик,
+    1 коробку патронов 12 калибра, 1 9мм пистолет, 2 магазина 9мм, 1 С4,
+    сухпаёк типа C, 1 стимпак, 1 Радавей, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-engi-breach-name = Engineer Breacher Kit
+undecided-loadout-category-engi-breach-name = Набор инженера-штурмовика
 undecided-loadout-category-engi-breach-description =
-    A crate containing all a NCR engineer needs to get any door open!
-    Includes 1 combat shotgun, 3 12 gauge drum mags, 
-    1 9mm pistol, 2 9mm pistol magazines, 1 toolbox,
-    C ration MRE, 1 stimpak, 1 Radaway, 1 bandage pack and a torch.
+    Ящик со всем необходимым для вскрытия любых дверей!
+    Содержит: 1 пояс НКР, 1 боевой дробовик,
+    3 барабанных магазина 12 калибра, 1 9мм пистолет, 2 магазина 9мм, 1 ящик с инструментами,
+    сухпаёк типа C, 1 стимпак, 1 Радавей, 1 набор бинтов и сигнальную ракету.
 
-# NCRA Medic Kits
+# Наборы медиков НКР
 
-undecided-loadout-category-med-surg-name = Medic Surgeon Kit
+undecided-loadout-category-med-surg-name = Набор медика-хирурга
 undecided-loadout-category-med-surg-description =
-    A crate containing all a NCR medic needs to take care of other troops.
-    Includes nitrile gloves, 1 .45 pistol, 2 .45 pistol magazines,
-    C ration MRE, surgical bag, 1 set of bruise packs, 1 pack of ointments,
-    1 stack of bloodbags, 1 antidote bottle, 1 super stimpack, 1 stimpak,
-    1 Radaway, 2 bandage packs and a torch,
+    Ящик со всем необходимым для заботы о других бойцах.
+    Содержит: 1 лабораторный халат, 1 берет медика, нитриловые перчатки, 1 медицинский пояс, 9мм ПП,
+    3 магазина 9мм, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 набор перевязочных пакетов, 1 набор мазей, 1 набор кровозамещающих, 1 флакон антидота,
+    1 супер-стимпак, 1 стимпак, 1 Радавей, 2 набора бинтов и сигнальную ракету.
 
-undecided-loadout-category-med-doc-name = Medic Field Kit
+undecided-loadout-category-med-doc-name = Набор полевого медика
 undecided-loadout-category-med-doc-description =
-    A crate containing all a NCR medic needs to take care of other troops.
-    Includes nitrile gloves, 1 medical belt, 9mm SMG, 
-    3 9mm SMG magazines, C ration MRE, 1 stack of bloodbags, 1 antidote bottle,
-    2 stimpaks, 1 Radaway, 1 stack of ointment, 2 bandage packs and a torch.
+    Ящик со всем необходимым для заботы о других бойцах.
+    Содержит: 1 лабораторный халат, 1 берет медика, нитриловые перчатки, 1 медицинский пояс, 9мм ПП,
+    3 магазина 9мм, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 набор кровозамещающих, 1 флакон антидота,
+    1 стимпак, 1 Радавей, 2 набора бинтов и сигнальную ракету.
 
-undecided-loadout-category-med-combat-name = Medic Combat Kit
+undecided-loadout-category-med-combat-name = Набор боевого медика
 undecided-loadout-category-med-combat-description =
-    A crate containing all a NCR medic needs to take care of other troops.
-    Includes 1 combat medkit, 1 service rifle, 3 service rifle magazines,
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE, 
-    2 stimpaks, 1 Radaway, 2 bandage packs and a torch.
+    Ящик со всем необходимым для заботы о других бойцах.
+    Содержит: 1 кожаный жилет НКР с подсумками, 1 металлический шлем медика, 1 медицинский пояс,
+    1 помповый дробовик, 1 коробку патронов 12 калибра, 1 9мм пистолет, 2 магазина 9мм,
+    сухпаёк типа C, 1 набор кровозамещающих, 1 инъектор антидота,
+    2 стимпака, 1 Радавей, 2 набора бинтов и сигнальную ракету.
 
-# NCRA Weapon Specialist Kits
+# Наборы специалистов НКР
 
-undecided-loadout-category-ws-gunner-name = Specialist Gunner Kit
+undecided-loadout-category-ws-gunner-name = Набор специалиста-пулемётчика
 undecided-loadout-category-ws-gunner-description =
-    A crate containing all a NCR soldier needs to pin down enemy combatants.
-    Includes 1 LMG, 3 5.56 LMG magazines, 1 9mm pistol, 2 9mm pistol magazines,
-    C ration MRE, 1 stimpak, 1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для подавления противника.
+    Содержит: 1 металлический шлем, 1 пояс НКР, 1 плащ НКР, 1 ручной пулемёт,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм,
+    сухпаёк типа C, 1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-ws-grenadier-name = Specialist Grenadier Kit
+undecided-loadout-category-ws-grenadier-name = Набор специалиста-гранатомётчика
 undecided-loadout-category-ws-grenadier-description =
-    A crate containing all a NCR soldier needs to blow stuff (and people) up!
-    Includes 
-    1 grenade rifle, 4 40mm grenades, 1 .45 handgun, 2 .45 pistol magazines, 1 smoke grenade,
-    C ration MRE, 1 stimpak, 1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для подрыва всего (и всех)!
+    Содержит: 1 металлический шлем, 1 пояс НКР, 1 плащ НКР,
+    1 гранатомёт, 4 40мм гранаты, 1 .45 пистолет, 2 магазина .45, 1 дымовая граната,
+    сухпаёк типа C, 1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-ws-sniper-name = Specialist Sniper Kit
+undecided-loadout-category-ws-sniper-name = Набор специалиста-снайпера
 undecided-loadout-category-ws-sniper-description =
-    A crate containing all a NCR soldier needs to take people out from afar.
-    Includes 
-    1 .50 sniper rifle, 1 box of .50 rounds, 1 9mm pistol, 2 9mm pistol magazines,
-    C ration MRE, 1 stimpak, 1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для поражения целей на расстоянии.
+    Содержит: 1 берет разведчика, 1 пояс НКР, 1 плащ НКР,
+    1 .50 снайперская винтовка, 1 коробка патронов .50, 1 9мм пистолет, 2 магазина 9мм,
+    сухпаёк типа C, 1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-ws-stealth-name = Specialist Infiltrator Kit
+undecided-loadout-category-ws-stealth-name = Набор специалиста-инфильтратора
 undecided-loadout-category-ws-stealth-description =
-    A crate containing all a NCR soldier needs to take people out in the dark.
-    Includes 1 dark NCR leather vest, 1 black balaclava, 1 night vision goggles,
-    1 suppressed SMG, 3 9mm SMG magazines, 1 9mm pistol, 2 9mm pistol magazines,
-    C ration MRE, 1 stimpak, 1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для скрытных операций.
+    Содержит: 1 тёмный кожаный жилет НКР, 1 чёрная балаклава, 1 пояс НКР,
+    1 ПП с глушителем, 3 магазина 9мм, 1 9мм пистолет, 2 магазина 9мм,
+    сухпаёк типа C, 1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-# NCRA Sergeant Kits
+# Наборы сержантов НКР
 
-undecided-loadout-category-sgt-rifleman-name = Sergeant Rifleman Kit
+undecided-loadout-category-sgt-rifleman-name = Набор сержанта-стрелка
 undecided-loadout-category-sgt-rifleman-description =
-    A crate containing all a NCR sergeant needs to lead patrols on the wasteland.
-    Includes 1 assault carbine, 3 5.56 carbine magazines, 1 9mm pistol, 
-    2 9mm pistol magazines, C ration MRE, 1 stimpak, 
-    1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для командования патрулями в пустошах.
+    Содержит: 1 металлический шлем, 1 пояс НКР, 1 штурмовой карабин,
+    3 магазина 5.56, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-sgt-gunner-name = Sergeant Gunner Kit
+undecided-loadout-category-sgt-gunner-name = Набор сержанта-пулемётчика
 undecided-loadout-category-sgt-gunner-description =
-    A crate containing all a NCR sergeant needs to lead patrols on the wasteland.
-    Includes 1 automated rifle, 3 .308 rifle magazines, 
-    1 9mm pistol, 2 9mm pistol magazines, C ration MRE,
-    1 stimpak, 1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для командования патрулями в пустошах.
+    Содержит: 1 металлический шлем, 1 пояс НКР, 1 автоматическую винтовку,
+    3 магазина .308, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-sgt-scout-name = Sergeant Scout Kit
+undecided-loadout-category-sgt-scout-name = Набор сержанта-разведчика
 undecided-loadout-category-sgt-scout-description =
-    A crate containing all a NCR sergeant needs to lead patrols on the wasteland.
-    Includes 1 battle rifle, 6 .308 clips, 1 9mm pistol, 
-    2 9mm pistol magazines, C ration MRE, 1 stimpak, 
-    1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для командования патрулями в пустошах.
+    Содержит: 1 берет разведчика, 1 пояс НКР, 1 боевую винтовку,
+    6 обойм .308, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-sgt-point-name = Sergeant Pointman Kit
+undecided-loadout-category-sgt-point-name = Набор сержанта-авангарда
 undecided-loadout-category-sgt-point-description =
-    A crate containing all a NCR sergeant needs to lead patrols on the wasteland.
-    Includes 1 combat shotgun, 3 12 gauge drum mags, 1 9mm pistol, 
-    2 9mm pistol magazines, C ration MRE, 1 stimpak, 
-    1 Radaway inhaler, 1 bandage pack and a torch.
+    Ящик со всем необходимым для командования патрулями в пустошах.
+    Содержит: 1 металлический шлем, 1 пояс НКР, 1 боевой дробовик,
+    3 барабанных магазина 12 калибра, 1 9мм пистолет, 2 магазина 9мм, сухпаёк типа C,
+    1 стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-# NCRA Lieutenant Kits
+# Наборы лейтенантов НКР
 
-undecided-loadout-category-lt-pencil-name = LT's Pencilpusher Kit
+undecided-loadout-category-lt-pencil-name = Набор лейтенанта-клерка
 undecided-loadout-category-lt-pencil-description =
-    A crate containing all a NCR soldier needs to lead troopers across the wasteland.
-    Includes 1 officer revolver, 3 .44 speedloaders, 1 holster, 
-    1 lever-action carbine, 1 box of .44 rounds, C ration MRE,
-    1 super stimpak, 1 Radaway inhaler, 1 bandage pack and a flare.
+    Ящик со всем необходимым для командования в пустошах.
+    Содержит: 1 плащ НКР, 1 офицерский револьвер, 3 быстрых заряжателя .44
+    1 кобура, 1 карабин с рычажным механизмом, 1 коробка патронов .44, сухпаёк типа C,
+    1 супер-стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-lt-scout-name = LT's Veteran Scout Kit
+undecided-loadout-category-lt-scout-name = Набор ветерана-разведчика
 undecided-loadout-category-lt-scout-description =
-    A crate containing all a NCR soldier needs to lead troopers across the wasteland.
-    Includes 1 magnum revolver, 3 .44 speedloaders
-    1 holster, 1 battle rifle, 6 .308 clips, C ration MRE,
-    1 super stimpak, 1 Radaway inhaler, 1 bandage pack and a flare.
+    Ящик со всем необходимым для командования в пустошах.
+    Содержит: 1 плащ НКР, 1 револьвер "Магнум", 3 быстрых заряжателя .44
+    1 кобура, 1 боевая винтовка, 6 обойм .308, сухпаёк типа C,
+    1 супер-стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-undecided-loadout-category-lt-tactical-name = LT's Tactical Kit
+undecided-loadout-category-lt-tactical-name = Тактический набор лейтенанта
 undecided-loadout-category-lt-tactical-description =
-    Includes 1 magnum revolver, 3 .44 speedloaders, 1 holster, 
-    1 assault carbine, 3 5.56 carbine magazines, C ration MRE,
-    1 super stimpak, 1 Radaway inhaler, 1 bandage pack and a flare.
+    Содержит: 1 боевую броню НКР, 1 револьвер "Магнум", 3 быстрых заряжателя .44
+    1 кобура, 1 штурмовой карабин, 3 магазина 5.56, сухпаёк типа C,
+    1 супер-стимпак, 1 ингалятор Радавея, 1 набор бинтов и сигнальную ракету.
 
-# Ranger stuff thingies
+# Наборы рейнджеров
 
-undecided-loadout-category-ranger-service-name = Ranger Service Kit
+undecided-loadout-category-ranger-service-name = Стандартный набор рейнджера
 undecided-loadout-category-ranger-service-description =
-    A crate containing advance weaponry for members of the rangers.
-    Includes 1 NCR belt, 1 service rifle, 4 5.56 service rifle magazines,
-    1 5.56 ammo box, 1 stimpak, 1 C ration MRE, and a combat knife.
+    Ящик с продвинутым вооружением для рейнджеров.
+    Содержит: 1 пояс НКР, 1 автоматическую служебную винтовку, 4 магазина 5.56,
+    1 коробка патронов 5.56, 1 стимпак, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-ranger-rifleman-name = Ranger Rifleman Kit
+undecided-loadout-category-ranger-rifleman-name = Набор рейнджера-стрелка
 undecided-loadout-category-ranger-rifleman-description =
-    A crate containing advance weaponry for members of the rangers.
-    Includes 1 NCR belt, 1 assault carbine, 3 5.56 magazines, 1 5.56 ammo box,
-    1 stimpak, C ration MRE, and a combat knife.
+    Ящик с продвинутым вооружением для рейнджеров.
+    Содержит: 1 пояс НКР, 1 штурмовой карабин, 3 магазина 5.56, 1 коробка патронов 5.56,
+    1 стимпак, сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-ranger-marksman-name = Ranger Marksman Kit
-undecided-loadout-category-ranger-marksman-description =
-    A crate containing advance weaponry for members of the rangers.
-    Includes 1 NCR belt, 1 marksman rifle, 3 7.62 marksman rifle magazines,
-    1 box of 7.62, 1 stimpak, 1 C ration MRE, and a combat knife.
+undecided-loadout-category-ranger-sniper-name = Набор рейнджера-снайпера
+undecided-loadout-category-ranger-sniper-description =
+    Ящик с продвинутым вооружением для рейнджеров.
+    Содержит: 1 пояс НКР, 1 снайперскую винтовку, 3 магазина .308,
+    1 коробка патронов .308, 1 стимпак, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-ranger-cqb-name = Ranger CQB Specialist Kit
+undecided-loadout-category-ranger-cqb-name = Набор рейнджера CQB
 undecided-loadout-category-ranger-cqb-description =
-    A crate containing advance weaponry for members of the rangers.
-    Includes 1 NCR pouches bandolier, 1 riot shotgun, 3 20 gauge ammo drums,
-    1 box of 20 gauge, 2 combat knifes, 2 stimpaks, and a C ration MRE.
+    Ящик с продвинутым вооружением для рейнджеров.
+    Содержит: 1 подсумок НКР, 1 боевой дробовик , 2 барабанных магазина 12 калибра,
+    1 коробка патронов 12 калибра, 2 боевых ножа, 2 стимпака и сухпаёк типа C.
 
-undecided-loadout-category-ranger-trailman-name = Ranger Trailman Kit
+undecided-loadout-category-ranger-trailman-name = Набор следопыта-рейнджера
 undecided-loadout-category-ranger-trailman-description =
-    A crate containing advance weaponry for members of the rangers.
-    Includes 1 NCR pouches bandolier, 1 lever carbine, 3 .44 ammo boxes,
-    2 stimpaks, 1 C ration MRE, and a combat knife.
+    Ящик с продвинутым вооружением для рейнджеров.
+    Содержит: 1 подсумок НКР, 1 карабин с рычажным механизмом, 3 коробки патронов .44,
+    2 стимпака, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-veteran-ranger-service-name = Veteran Ranger Service Kit
+undecided-loadout-category-veteran-ranger-service-name = Стандартный набор ветерана-рейнджера
 undecided-loadout-category-veteran-ranger-service-description =
-    A cache containing belongings of a veteran ranger.
-    Includes 1 NCR pouches bandolier, 1 scout rifle, 4 5.56 scout rifle magazines,
-    1 5.56 ammo box, 2 stimpaks, 1 C ration MRE, and a combat knife.
+    Тайник с вещами ветерана-рейнджера.
+    Содержит: 1 подсумок НКР, 1 разведывательную винтовку, 4 магазина 5.56,
+    1 коробка патронов 5.56, 2 стимпака, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-veteran-ranger-precision-rifle-name = Veteran Ranger Precision Rifle Kit
+undecided-loadout-category-veteran-ranger-precision-rifle-name = Набор снайпера ветерана-рейнджера
 undecided-loadout-category-veteran-ranger-precision-rifle-description =
-    A cache containing belongings of a veteran ranger.
-    Includes 1 brush gun, 3 45-70 brush gun speedloader tubes,
-    1 box of 45-70, 2 stimpaks, 1 C ration MRE, and a combat knife.
+    Тайник с вещами ветерана-рейнджера.
+    Содержит: 1 винтовку Brush Gun, 3 трубки быстрого заряжания 45-70,
+    1 коробка патронов 45-70, 2 стимпака, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-veteran-ranger-heavy-sniper-name = Veteran Ranger Heavy Sniper Kit
+undecided-loadout-category-veteran-ranger-heavy-sniper-name = Набор тяжелого снайпера ветерана-рейнджера
 undecided-loadout-category-veteran-ranger-heavy-sniper-description =
-    A cache containing belongings of a veteran ranger.
-    Includes 1 NCR pouches bandolier, 1 anti-materiel rifle,
-    3 AMR magazines, 1 50 caliber ammo box, 2 stimpaks,
-    1 C ration MRE, and a combat knife.
+    Тайник с вещами ветерана-рейнджера.
+    Содержит: 1 подсумок НКР, 1 противотанковую винтовку,
+    3 магазина AMR, 1 коробка патронов .50, 2 стимпака,
+    1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-veteran-ranger-assault-name = Veteran Ranger Assault Kit
+undecided-loadout-category-veteran-ranger-assault-name = Штурмовой набор ветерана-рейнджера
 undecided-loadout-category-veteran-ranger-assault-description =
-    A cache containing belongings of a veteran ranger.
-    Includes 1 NCR belt, 1 assault carbine,3 5.56 assault carbine magazines,
-    1 5.56 ammo box, 2 stimpaks, 1 C ration MRE, and a combat knife.
+    Тайник с вещами ветерана-рейнджера.
+    Содержит: 1 пояс НКР, 1 штурмовой карабин, 3 магазина 5.56,
+    1 коробка патронов 5.56, 2 стимпака, 1 сухпаёк типа C и боевой нож.
 
-undecided-loadout-category-veteran-ranger-marksman-name = Veteran Ranger Marksman Kit
+undecided-loadout-category-veteran-ranger-marksman-name = Набор меткого стрелка ветерана-рейнджера
 undecided-loadout-category-veteran-ranger-marksman-description =
-    A cache containing belongings of a veteran ranger.
-    Includes 1 NCR belt, 1 marksman rifle, 3 7.62 marksman rifle magazines,
-    1 7.62 ammo box, 2 stimpaks, 1 C ration MRE, and a combat knife.
+    Тайник с вещами ветерана-рейнджера.
+    Содержит: 1 пояс НКР, 1 снайперскую винтовку, 3 магазина 7.62,
+    1 коробка патронов 7.62, 2 стимпака, 1 сухпаёк типа C и боевой нож.
 
+# Наборы Среднезападного Братства
 
-# Midwestern Kits
-
-undecided-loadout-category-mbos-init-las-name = Initiate Laser Kit
+undecided-loadout-category-mbos-init-las-name = Набор неофита (лазеры)
 undecided-loadout-category-mbos-init-las-description =
-    A cache containing belongings of a Midwestern chapter Initiate.
-    Includes 1 crude laser rifle, 3 microfusion cells, 1 12.7mm pistol,
-    2 12.7mm pistol magazines, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами неофита Среднезападного Братства.
+    Содержит: 1 самодельную лазерную винтовку, 3 микрофьюжн-ячейки, 1 12.7мм пистолет,
+    2 магазина 12.7мм, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-init-bal-name = Initiate Ballistic Kit
+undecided-loadout-category-mbos-init-bal-name = Набор неофита (баллистика)
 undecided-loadout-category-mbos-init-bal-description =
-    A cache containing belongings of a Midwestern chapter Initiate.
-    Includes 1 old carbine, 3 5.56 magazines, 1 AEP-7, 2 energy
-    cells, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами неофита Среднезападного Братства.
+    Содержит: 1 старый карабин, 3 магазина 5.56, 1 AEP-7, 2 энергоячейки,
+    1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-kni-las-name = Knight Laser Kit
+undecided-loadout-category-mbos-kni-las-name = Набор рыцаря (лазеры)
 undecided-loadout-category-mbos-kni-las-description =
-    A cache containing belongings of a Midwestern chapter Knight.
-    Includes 1 AER-9, 3 microfusion cells, 1 12.7mm pistol,
-    2 12.7mm pistol magazines, 1 roll of gauze, 1 K ration MRE.
+    Тайник с вещами рыцаря Среднезападного Братства.
+    Содержит: 1 AER-9, 3 микрофьюжн-ячейки, 1 12.7мм пистолет,
+    2 магазина 12.7мм, 1 рулон бинтов, сухпаёк типа K.
 
-undecided-loadout-category-mbos-kni-bal-name = Knight Ballistic Kit
+undecided-loadout-category-mbos-kni-bal-name = Набор рыцаря (баллистика)
 undecided-loadout-category-mbos-kni-bal-description =
-    A cache containing belongings of a Midwestern chapter Knight.
-    Includes 1 assault carbine, 3 5.56 magazines, 1 AEP-7, 2 energy
-    cells, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами рыцаря Среднезападного Братства.
+    Содержит: 1 штурмовой карабин, 3 магазина 5.56, 1 AEP-7, 2 энергоячейки,
+    1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-scribe-medic-name = Scribe Medical Kit
+undecided-loadout-category-mbos-scribe-medic-name = Набор писаря-медика
 undecided-loadout-category-mbos-scribe-medic-description =
-    A cache containing belongings of a Midwestern chapter Scribe.
-    Includes 1 AEP-7, 2 energy cells, 1 pair of nitrile gloves,
-    1 medical robe, 1 filled medical belt, 1 stack of ointment, 1
-    super stimpak, 1 sterile mask, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Среднезападного Братства.
+    Содержит: 1 AEP-7, 2 энергоячейки, 1 пара нитриловых перчаток,
+    1 медицинский халат, 1 заполненный медицинский пояс, 1 набор мазей, 1 супер-стимпак,
+    1 стерильную маску, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-scribe-field-name = Scribe Field Kit
+undecided-loadout-category-mbos-scribe-field-name = Полевой набор писаря
 undecided-loadout-category-mbos-scribe-field-description =
-    A cache containing belongings of a Midwestern chapter Scribe.
-    Includes 1 AEP-7, 2 energy cells, 1 pair of combat gloves,
-    1 field coat, 1 Brotherhood webbing, 1 stack of ointment,
-    1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Среднезападного Братства.
+    Содержит: 1 AEP-7, 2 энергоячейки, 1 пара боевых перчаток,
+    1 полевой халат, 1 разгрузка Братства, 1 набор мазей,
+    1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-scribe-engineer-name = Scribe Engineer Kit
+undecided-loadout-category-mbos-scribe-engineer-name = Инженерный набор писаря
 undecided-loadout-category-mbos-scribe-engineer-description =
-    A cache containing belongings of a Midwestern chapter Scribe.
-    Includes 1 AEP-7, 2 energy cells, 1 pair of insulated gloves,
-    1 quilted armor, 1 filled utility belt, 1 stack of ointment,
-    1 welding goggles, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Среднезападного Братства.
+    Содержит: 1 AEP-7, 2 энергоячейки, 1 пара изолированных перчаток,
+    1 стёганый доспех, 1 заполненный инженерный пояс, 1 набор мазей,
+    1 сварочные очки, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-mbos-pal-las-name = Paladin Laser Kit
+undecided-loadout-category-mbos-pal-las-name = Набор паладина (лазеры)
 undecided-loadout-category-mbos-pal-las-description =
-    A cache containing belongings of a Midwestern chapter Paladin.
-    Includes 1 modified AER-9, 3 microfusion cells, 1 12.7mm pistol,
-    2 12.7mm pistol magazines, 1 roll of gauze, 1 stimpak,
-    and 1 K ration MRE.
+    Тайник с вещами паладина Среднезападного Братства.
+    Содержит: 1 модифицированный AER-9, 3 микрофьюжн-ячейки, 1 12.7мм пистолет,
+    2 магазина 12.7мм, 1 рулон бинтов, 1 стимпак,
+    и сухпаёк типа K.
 
-undecided-loadout-category-mbos-pal-bal-name = Paladin Ballistic Kit
+undecided-loadout-category-mbos-pal-bal-name = Набор паладина (баллистика)
 undecided-loadout-category-mbos-pal-bal-description =
-    A cache containing belongings of a Midwestern chapter Paladin.
-    Includes 1 assault carbine, 3 5.56 magazines, 1 AEP-7, 2 energy
-    cells, 1 roll of gauze, 1 stimpak, and 1 K ration MRE.
+    Тайник с вещами паладина Среднезападного Братства.
+    Содержит: 1 штурмовой карабин, 3 магазина 5.56, 1 AEP-7, 2 энергоячейки,
+    1 рулон бинтов, 1 стимпак и сухпаёк типа K.
 
-undecided-loadout-category-mbos-pal-sni-name = Paladin Sniper Kit
+undecided-loadout-category-mbos-pal-sni-name = Набор паладина-снайпера
 undecided-loadout-category-mbos-pal-sni-description =
-    A cache containing belongings of a Midwestern chapter Paladin.
-    Includes 1 Wattz 2000, 3 heavy microfusion cells,
-    1 12.7mm pistol, 2 12.7mm pistol magazines, 1 roll of gauze,
-    1 stimpak, and 1 K ration MRE.
+    Тайник с вещами паладина Среднезападного Братства.
+    Содержит: 1 Wattz 2000, 3 тяжёлые микрофьюжн-ячейки,
+    1 12.7мм пистолет, 2 магазина 12.7мм, 1 рулон бинтов,
+    1 стимпак и сухпаёк типа K.
 
-undecided-loadout-category-mbos-pal-pla-name = Paladin Plasma Kit
+undecided-loadout-category-mbos-pal-pla-name = Набор паладина (плазма)
 undecided-loadout-category-mbos-pal-pla-description =
-    A cache containing belongings of a Midwestern chapter Paladin.
-    Includes 1 plasma rifle, 3 plasma cartridge, 1 12.7mm pistol,
-    2 12.7mm pistol magazines, 1 roll of gauze, 1 stimpak,
-    and 1 K ration MRE.
+    Тайник с вещами паладина Среднезападного Братства.
+    Содержит: 1 плазменную винтовку, 3 плазменных картриджа, 1 12.7мм пистолет,
+    2 магазина 12.7мм, 1 рулон бинтов, 1 стимпак,
+    и сухпаёк типа K.
 
+# Наборы Вашингтонского Братства
 
-# Washington Kits
-
-undecided-loadout-category-wbos-init-pla-name = Initiate Plasma Kit
+undecided-loadout-category-wbos-init-pla-name = Набор неофита (плазма)
 undecided-loadout-category-wbos-init-pla-description =
-    A cache containing belongings of a Washington chapter Initiate.
-    Includes 1 crude plasma rifle, 3 plasma cartridges, 1 Webley pistol,
-    2 9mm pistol magazines, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами неофита Вашингтонского Братства.
+    Содержит: 1 самодельную плазменную винтовку, 3 плазменных картриджа, 1 пистолет Webley,
+    2 магазина 9мм, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-init-bal-name = Initiate Ballistic Kit
+undecided-loadout-category-wbos-init-bal-name = Набор неофита (баллистика)
 undecided-loadout-category-wbos-init-bal-description =
-    A cache containing belongings of a Washington chapter Initiate.
-    Includes 1 old carbine, 3 5.56 magazines, 1 plasma pistol, 2
-    plasma cells, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами неофита Вашингтонского Братства.
+    Содержит: 1 старый карабин, 3 магазина 5.56, 1 плазменный пистолет, 2
+    плазменные ячейки, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-kni-pla-name = Knight Plasma Kit
+undecided-loadout-category-wbos-kni-pla-name = Набор рыцаря (плазма)
 undecided-loadout-category-wbos-kni-pla-description =
-    A cache containing belongings of a Washington chapter Knight.
-    Includes 1 plasma rifle, 3 plasma cartridges, 1 Webley pistol,
-    2 9mm pistol magazines, 1 roll of gauze, 1 K ration MRE.
+    Тайник с вещами рыцаря Вашингтонского Братства.
+    Содержит: 1 плазменную винтовку, 3 плазменных картриджа, 1 пистолет Webley,
+    2 магазина 9мм, 1 рулон бинтов, сухпаёк типа K.
 
-undecided-loadout-category-wbos-kni-bal-name = Knight Ballistic Kit
+undecided-loadout-category-wbos-kni-bal-name = Набор рыцаря (баллистика)
 undecided-loadout-category-wbos-kni-bal-description =
-    A cache containing belongings of a Washington chapter Knight.
-    Includes 1 assault carbine, 3 5.56 magazines, 1 plasma pistol,
-    2 plasma cells, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами рыцаря Вашингтонского Братства.
+    Содержит: 1 штурмовой карабин, 3 магазина 5.56, 1 плазменный пистолет,
+    2 плазменные ячейки, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-scribe-medic-name = Cleric Medical Kit
+undecided-loadout-category-wbos-scribe-medic-name = Набор писаря-медика
 undecided-loadout-category-wbos-scribe-medic-description =
-    A cache containing belongings of a Washington chapter Cleric.
-    Includes 1 plasma pistol, 2 plasma cells, 1 pair of nitrile gloves,
-    1 medical robe, 1 filled medical belt, 1 stack of ointment, 1
-    super stimpak, 1 sterile mask, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Вашингтонского Братства.
+    Содержит: 1 плазменный пистолет, 2 плазменные ячейки, 1 пара нитриловых перчаток,
+    1 медицинский халат, 1 заполненный медицинский пояс, 1 набор мазей, 1
+    супер-стимпак, 1 стерильную маску, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-scribe-field-name = Cleric Field Kit
+undecided-loadout-category-wbos-scribe-field-name = Полевой набор писаря
 undecided-loadout-category-wbos-scribe-field-description =
-    A cache containing belongings of a Washington chapter Cleric.
-    Includes 1 plasma pistol, 2 plasma cells, 1 pair of combat gloves,
-    1 field coat, 1 Brotherhood webbing, 1 stack of ointment,
-    1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Вашингтонского Братства.
+    Содержит: 1 плазменный пистолет, 2 плазменные ячейки, 1 пара боевых перчаток,
+    1 полевой халат, 1 разгрузка Братства, 1 набор мазей,
+    1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-scribe-engineer-name = Cleric Engineer Kit
+undecided-loadout-category-wbos-scribe-engineer-name = Инженерный набор писаря
 undecided-loadout-category-wbos-scribe-engineer-description =
-    A cache containing belongings of a Washington chapter Cleric.
-    Includes 1 plasma pistol, 2 plasma cells, 1 pair of insulated gloves,
-    1 technical vest, 1 filled utility belt, 1 stack of ointment,
-    1 welding goggles, 1 roll of gauze, and 1 K ration MRE.
+    Тайник с вещами писаря Вашингтонского Братства.
+    Содержит: 1 плазменный пистолет, 2 плазменные ячейки, 1 пара изолированных перчаток,
+    1 технический жилет, 1 заполненный инженерный пояс, 1 набор мазей,
+    1 сварочные очки, 1 рулон бинтов и сухпаёк типа K.
 
-undecided-loadout-category-wbos-pal-pla-name = Paladin Plasma Kit
+undecided-loadout-category-wbos-pal-pla-name = Набор паладина (плазма)
 undecided-loadout-category-wbos-pal-pla-description =
-    A cache containing belongings of a Washington chapter Paladin.
-    Includes 1 automatic plasma rifle, 3 plasma cartridges,
-    1 Webley pistol, 2 9mm pistol magazines, 1 roll of gauze,
-    1 stimpak and 1 K ration MRE.
+    Тайник с вещами паладина Вашингтонского Братства.
+    Содержит: 1 автоматическую плазменную винтовку, 3 плазменных картриджа,
+    1 пистолет Webley, 2 магазина 9мм, 1 рулон бинтов,
+    1 стимпак и сухпаёк типа K.
 
-undecided-loadout-category-wbos-pal-bal-name = Paladin Ballistic Kit
+undecided-loadout-category-wbos-pal-bal-name = Набор паладина (баллистика)
 undecided-loadout-category-wbos-pal-bal-description =
-    A cache containing belongings of a Washington chapter Paladin.
-    Includes 1 assault carbine, 3 5.56 magazines, 1 plasma pistol,
-    1 plasma cells, 1 roll of gauze, 1 stimpak, and 1 K ration MRE.
+    Тайник с вещами паладина Вашингтонского Братства.
+    Содержит: 1 штурмовой карабин, 3 магазина 5.56, 1 плазменный пистолет,
+    1 плазменная ячейка, 1 рулон бинтов, 1 стимпак и сухпаёк типа K.
 
-undecided-loadout-category-wbos-pal-sni-name = Paladin Sniper Kit
+undecided-loadout-category-wbos-pal-sni-name = Набор паладина-снайпера
 undecided-loadout-category-wbos-pal-sni-description =
-    A cache containing belongings of a Washington chapter Paladin.
-    Includes 1 F2 marksman rifle, 3 7.62 short magazines,
-    1 plasma pistol, 2 plasma cells, 1 roll of gauze,
-    1 stimpak, and 1 K ration MRE.
+    Тайник с вещами паладина Вашингтонского Братства.
+    Содержит: 1 снайперскую винтовку F2, 3 коротких магазина 7.62,
+    1 плазменный пистолет, 2 плазменные ячейки, 1 рулон бинтов,
+    1 стимпак и сухпаёк типа K.
 
-undecided-loadout-category-wbos-pal-las-name = Paladin Laser Kit
+undecided-loadout-category-wbos-pal-las-name = Набор паладина (лазеры)
 undecided-loadout-category-wbos-pal-las-description =
-    A cache containing belongings of a Washington chapter Paladin.
-    Includes 1 AER-9, 3 microfusion cells, 1 plasma pistol,
-    2 plasma cells, 1 roll of gauze, 1 stimpak, and 1 K ration MRE.
+    Тайник с вещами паладина Вашингтонского Братства.
+    Содержит: 1 AER-9, 3 микрофьюжн-ячейки, 1 плазменный пистолет,
+    2 плазменные ячейки, 1 рулон бинтов, 1 стимпак и сухпаёк типа K.
 
+# Наборы племён
 
-# Tribal Kits
-
-undecided-loadout-category-Tribal-Stalker-name = Tribal Stalker Kit
+undecided-loadout-category-Tribal-Stalker-name = Набор племенного преследователя
 undecided-loadout-category-Tribal-Stalker-description =
-    A crate containing everything a hunter of the old ways will need.
-    Inside you will find a bow, a quiver with enough arrows to fill it
-    and your trusty spear.
+    Ящик со всем необходимым для охотника старых путей.
+    Внутри вы найдёте лук, колчан с достаточным количеством стрел
+    и ваше верное копьё.
 
-undecided-loadout-category-Tribal-Champion-name = Tribal Champion Kit
+undecided-loadout-category-Tribal-Champion-name = Набор племенного чемпиона
 undecided-loadout-category-Tribal-Champion-description =
-    A crate containing everything for those who defend the tribes honour.
-    Inside you will find your two handed club, a quiver of javelins
-    and a yao guai cloak to show your ferocity.
+    Ящик со всем необходимым для защиты чести племени.
+    Внутри вы найдёте двуручную дубину, колчан дротиков
+    и плащ яо-гая, демонстрирующий вашу свирепость.
 
-undecided-loadout-category-Tribal-Fire-Hand-name = Tribal Fire Hand Kit
+undecided-loadout-category-Tribal-Fire-Hand-name = Набор племенного огнестрельщика
 undecided-loadout-category-Tribal-Fire-Hand-description =
-    A crate containing everything a tribal gunslinger would want.
-    Inside you will find a holster with two revolvers and spare ammo.
-    Make your shots count kin.
+    Ящик со всем необходимым для племенного стрелка.
+    Внутри вы найдёте кобуру с двумя револьверами и запасные патроны.
+    Пусть каждый ваш выстрел будет точным, сородич.
 
-undecided-loadout-category-Tribal-Hunter-name = Tribal Hunter Kit
+undecided-loadout-category-Tribal-Hunter-name = Набор племенного охотника
 undecided-loadout-category-Tribal-Hunter-description =
-    A crate containing everything for those who hunt with a rifle.
-    Using powder and fire to bring down big targets.
-    Inside you will find your trusty huntstick and a machete
-    if your prey causes problems. Spare ammo included.
+    Ящик со всем необходимым для охоты с винтовкой.
+    Используя порох и огонь, чтобы добывать крупную дичь.
+    Внутри вы найдёте вашу верную охотничью винтовку и мачете
+    на случай проблем с добычей. Запасные патроны включены.
 
-undecided-loadout-category-Tribal-Bone-Breaker-name = Tribal Bone Breaker Kit
+undecided-loadout-category-Tribal-Bone-Breaker-name = Набор племенного костолома
 undecided-loadout-category-Bone-Breaker-description =
-    A crate containing everything for those who fight using powder and fire.
-    Shooting often to bring down the foe.
-    Inside you will find your reliable tribal rifle and a machete.
-    Spare ammo included.
+    Ящик со всем необходимым для тех, кто сражается с помощью пороха и огня.
+    Часто стреляя, чтобы одолеть врага.
+    Внутри вы найдёте надёжную племенную винтовку и мачете.
+    Запасные патроны включены.
 
-undecided-loadout-category-Tribal-pain-bringer-name = Tribal Pain Bringer Kit
+undecided-loadout-category-Tribal-pain-bringer-name = Набор племенного приносящего боль
 undecided-loadout-category-Tribal-pain-bringer-description =
-    A crate containing everything for those who fight up close
-    with powder and fury. Inside you will find.
-    Your sturdy boom stick thats strong enough to break any foe.
-    Spare shells included and a mask for protection when up close.
+    Ящик со всем необходимым для ближнего боя
+    с порохом и яростью. Внутри вы найдёте
+    ваш крепкий дробовик, достаточно мощный, чтобы сломить любого врага.
+    Запасные патроны и маска для защиты в ближнем бою включены.
 
+# Наборы городской стражи
 
-# Town Guard Kits
+undecided-loadout-category-town-cere-name = Церемониальный набор
+undecided-loadout-category-town-cere-description =
+    Иногда нужно выглядеть презентабельно, не заботясь о защите.
+    Содержит: 1 стражную шляпу, 1 стражный плащ, 1 боевую винтовку .308,
+    3 обоймы .308, 1 .44 магнум, 2 быстрых заряжателя .44,
+    1 рулон бинтов и базовый сухпаёк.
 
-undecided-loadout-category-town-cere-name = Ceremonial Kit
-undecided-loadout-category-town-cere-description = 
-    Sometimes you have to look fancy and not worry about protection.
-    Includes 1 guard hat, 1 guard greatcoat, 1 .308 battle rifle,
-    3 .308 clips, 1 .44 magnum, 2 .44 speedloaders,
-    1 stack of gauze and basic ration supplies.
-
-undecided-loadout-category-town-patr-name = Patrolman Kit
+undecided-loadout-category-town-patr-name = Набор патрульного
 undecided-loadout-category-town-patr-description =
-    You don't ask much from life, all you want is vanilla.
-    Includes 1 brodie helmet, 1 light armour, 1 12.7mm SMG,
-    3 12.7mm SMG mags, 1 Webley pistol, 2 9mm pistol mags,
-    1 rain mantle, 1 stack of gauze and basic ration supplies.
+    Вы не просите много от жизни - вам нужно только простое.
+    Содержит: 1 каску Броди, 1 лёгкую броню, 1 12.7мм ПП,
+    3 магазина 12.7мм, 1 пистолет Webley, 2 магазина 9мм,
+    1 дождевой плащ, 1 рулон бинтов и базовый сухпаёк.
 
-undecided-loadout-category-town-lawb-name = Lawbringer Kit
+undecided-loadout-category-town-lawb-name = Набор законника
 undecided-loadout-category-town-lawb-description =
-    DAKKA DAKKA! Time to put down an entire revolt, or..?
-    Includes 1 brodie helmet, 1 light armour, 1 Canadian HMG,
-    1 7.62 ammo belt, 1 stack of gauze and basic ration supplies.
-    Nothing else, budget cuts!
+    ДАККА ДАККА! Время подавить восстание, или...?
+    Содержит: 1 каску Броди, 1 лёгкую броню, 1 канадский ручной пулемёт,
+    1 ленту 7.62, 1 рулон бинтов и базовый сухпаёк.
+    Больше ничего - сокращение бюджета!
 
-undecided-loadout-category-town-brea-name = Breacher Kit
+undecided-loadout-category-town-brea-name = Набор штурмовика
 undecided-loadout-category-town-brea-description =
-    Only when you don't have to worry about friendly fire!
-    Includes 1 blowback shotgun, 1 box of 12 gauge shells,
-    1 Webley pistol, 2 9mm pistol mags,
-    1 stack of gauze and basic ration supplies.
+    Только когда не нужно беспокоиться о дружественном огне!
+    Содержит: 1 самозарядный дробовик, 1 коробку патронов 12 калибра,
+    1 пистолет Webley, 2 магазина 9мм,
+    1 рулон бинтов и базовый сухпаёк.
 
-undecided-loadout-category-town-riot-name = Riot Control Kit
+undecided-loadout-category-town-riot-name = Набор для подавления беспорядков
 undecided-loadout-category-town-riot-description =
-    Let me solo them! I mean send them home, peacefully!
-    Includes 1 spear, 1 heavy metal shield, 1 hunting revolver,
-    2 .45-70 speedloaders, 1 old cloak, 1 stack of gauze,
-    and basic ration supplies.
+    Дайте мне разобраться с ними! В смысле, мирно отправить их домой!
+    Содержит: 1 копьё, 1 тяжёлый металлический щит, 1 охотничий револьвер,
+    2 быстрых заряжателя .45-70, 1 старый плащ, 1 рулон бинтов,
+    и базовый сухпаёк.
+
+# Наборы ЗБС
+undecided-loadout-category-elder-rifle-name = Ящик огнестрельного снаряжения Старейшены
+undecided-loadout-category-elder-rifle-description =
+    Достал. Приказал . Убил
+    Содержит : 1 Ак-112РП , 2 Барабана 5.45 , 1 коробку патронов 5.45
+    Пистолет .45 , 3 магазина .45 , Бинты , 1 стимпак . Осколочная граната
+
+undecided-loadout-category-elder-laser-name = Ящик лазерного снаряжения Старейшены
+undecided-loadout-category-elder-laser-description =
+    Идеальный набор для талантливого Старейшены!
+    Содержит : 1 Импульсное ружьё YK42B , 3 Батареи к нему
+    Магнитно-Лазерный пистолет , 2 источника питания к нему
+    Бинты, стимпанк, Плазменная граната
+
+undecided-loadout-category-paladin-rifle-name = Ящик огнестрельного снаряжения Паладина
+undecided-loadout-category-paladin-rifle-description =
+    Эффективно. Быстро. Надежно
+    Содержит : 1 Ак-112РП , 2 Барабана 5.45 , 1 коробку патронов 5.45
+    Пистолет .45 , 3 магазина .45 , Бинты , 1 стимпак
+
+undecided-loadout-category-paladin-laser-name = Ящик лазерного снаряжения Паладина
+undecided-loadout-category-paladin-laser-description =
+    Простой и эффективный способ решить проблемы,Точность не обязательна
+    Содержит : 1 Автоматическую лазерную винтовку , 3 Микроядерныебатареи
+    Лазерный пистолет , 2 энергобатареи , Бинты , 1 стимпак
+
+undecided-loadout-category-paladin-plasma-name = Ящик плазменого снаряжения Паладина
+undecided-loadout-category-paladin-plasma-description =
+    Самое страшное попасть по союзнику. А в прочем. . .
+    Содержит : 1 Плазменаная винтовка , 3 плазменных магазина
+    Магнитно-Лазерный пистолет, 2 источника питания к нему, Бинты ,
+    1 стимпак
+
+undecided-loadout-category-knight-rifle-name = Ящик огнестрельного снаряжения Рыцаря
+undecided-loadout-category-knight-rifle-description =
+    Снаряжение главное боевой единицы западного Братства
+    1 Ак-112 , 3 магазина 5.45 , 1 коробку патронов 5.45
+    Пистолет .45 , 3 магазина .45 , Бинты , 1 стимпак
+    Полный набор элементов комплекта MA-72 BoS
+
+undecided-loadout-category-knight-laser-name = Ящик лазерного снаряжения Рыцаря
+undecided-loadout-category-knight-laser-description =
+    Набор для ведения лазерного боя. Стильно. Мощно
+    1 Лазерная винтовка , 3 Микроядерныебатареи , 1 лазерный пистолет,
+    2 энергобатареи , Бинты , 1 стимпак
+    Полный набор элементов комплекта MB-72 BoS
+
+undecided-loadout-category-knight-plasma-name = Ящик плазменого снаряжения Рыцаря
+undecided-loadout-category-knight-plasma-description =
+    Набор для любителей легкости, и радиации
+    1 Плазменный карабин, 3 плазменные Батареи , 1 пистолет 12.7,
+    2 магазина 12.7 , 1 Нюка-Граната , Бинты , 1 стимпак
+    Полный набор элементов комплекта MV-72 BoS
+
+undecided-loadout-category-squire-rifle-name = Ящик огнестрельного снаряжения Оруженосца
+undecided-loadout-category-squire-rifle-description =
+    Основной набор оруженосца . Стандарт качества
+    1 Ак-112 , 3 магазина 5.45 , 1 коробку патронов 5.45
+    Бинты , 1 стимпак
+    Полный набор элементов комплекта SQ-22 BoS
+
+undecided-loadout-category-squire-laser-name = Ящик лазерного снаряжения Оруженосца
+undecided-loadout-category-squire-laser-description =
+    Удобный набор на все случаи жизни и не жизни
+    1 Лазерная винтовка образца А, 2 Микроядерныебатареи
+    Бинты ,Стимпак
+    Полный набор элементов комплекта SQ-4 BoS
+
+undecided-loadout-category-squire-plasma-name = Ящик плазменого снаряжения Оруженосца
+undecided-loadout-category-squire-plasma-description =
+    Легкий в освоении и простой в начале набор, Осторожно : Радиоактивен
+    1 Плазменный пистолет, 2 плазменные Батареи ,
+    2 Нюка-Гранаты , Бинты , 1 стимпак
+    Полный набор элементов комплекта SQ-5 BoS
+
+undecided-loadout-category-scribe-rifle-name = Ящик огнестрельного снаряжения Скриптера
+undecided-loadout-category-scribe-rifle-description =
+    Набор Скриптера-Оружейника
+    1 Обрез , Коробка патрон 12 калибра ,10 пороха , 1 cтимпак
+    Разгрузка , Бинты , Свинец
+
+undecided-loadout-category-scribe-laser-name = Ящик лазерного снаряжения Скриптера
+undecided-loadout-category-scribe-laser-description =
+    Набор Скриптера-Медика
+    1 Магнитно-Лазерный пистолет, 2 источника питания к нему
+    Анализатор организма ,Стимпак , Аптечка , Пояс медика
+
+undecided-loadout-category-scribe-plasma-name = Ящик плазменого снаряжения Скриптера
+undecided-loadout-category-scribe-plasma-description =
+    Набор Скриптера-Инженера , Реактор не ждет
+    1 Плазменный пистолет, 2 плазменные Батареи ,
+    Сталь , Стекло , Бинты , 1 стимпак , Пояс инструментов
+    Полный набор элементов Радио-Защиты
+
+# Инквизитор СЗБС
+undecided-loadout-category-inquisitorinspector-name = Набор Инспектора
+undecided-loadout-category-inquisitorinspector-description =
+    Набор того кто всегда на страже порядке, Инспектора СЗБС.
+    В комплект входит: Охотничий револьвер и кобура к нему, 2 спидлоадера 45-70,
+    Коробка патрон 45-70, боевая аптечка, сухпаек, набор бинтов, 2 стимпака, церемониальный меч.
+
+undecided-loadout-category-inquisitorcrusader-name = Набор Крестоносца
+undecided-loadout-category-inquisitorcrusader-description =
+    Набор Крестоносца, всегда готового к защите братства от дезертиров.
+    В комплект входит: Штурмовая винтовка с 3 магазинами, коробка патрон 5.56,
+    Разгрузочный жилет, сухпаек, 2 стимпака.
+
+undecided-loadout-category-inquisitorplasma-name = Плазменный Набор
+undecided-loadout-category-inquisitorplasma-description =
+    Плазменный набор, для самых жестоких Инквизиторов братства.
+    В комплект входит: автоматическая плазменная винтовка с 3 батареями,
+    сухпаек, набор бинтов, набор мазей, 2 стимпака и 1 супер-стимпак, а так-же разгрузочный жилет.
+
+# Следователь ВП НКР
+undecided-loadout-category-NCRMPMilitaryPolice-name = Набор военного полицейского НКР
+undecided-loadout-category-NCRMPMilitaryPolice-description =
+    Набор того, кто всегда готов следить за соблюдением устава, Военного полицейского НКР.
+    Включает в комплект: полицейский дробовик,с 2 баранами, коробкой 20 калибра
+    2 пары наручников, полицейскую дубинку, сухпаек и 2 стимпака
+
+undecided-loadout-category-NCRMPinvestigator-name = Набор следователя ВП НКР
+undecided-loadout-category-NCRMPinvestigator-description =
+    Набор того, кто всегда расследовать самое тяжелое военное преступление.
+    Включает в комплект: самозарядную винтовку 308 калибра, 2 магазина к ней и коробку патрон
+    2 пары наручников, полицейскую дубинку, сухпаек и 2 стимпака
+
+undecided-loadout-category-NCRMPinvestigatorBailif-name= Набор судебного исполнителя НКР
+undecided-loadout-category-NCRMPinvestigatorBailif-description =
+    Набор того, кто всегда готов исполнить решение суда, Судебного исполнителя.
+    Набор включатает:  9мм пистолет-пулемет, 2 магазина, коробку патронов
+    2 пары наручников, полицейскую дубинку, сухпаек и 2 стимпака
+

@@ -1,42 +1,42 @@
-id-card-access-level-townie-sheriff = Town Jail
-id-card-access-level-townie-mayor = Town Mayor
-id-card-access-level-townie-shopkeeper = Town Store
-id-card-access-level-townie-doctor = Town Clinic
-id-card-access-level-townie-mechanic = Town Works.
-id-card-access-level-townie-bartender = Town Inn
-id-card-access-level-townie-reporter = Town Studio
-id-card-access-level-townie-inn1 = Inn Room #1
-id-card-access-level-townie-inn2 = Inn Room #2
-id-card-access-level-townie-inn3 = Inn Room #3
+id-card-access-level-townie-sheriff = Городская тюрьма
+id-card-access-level-townie-mayor = Офис мэра
+id-card-access-level-townie-shopkeeper = Городской магазин
+id-card-access-level-townie-doctor = Городская клиника
+id-card-access-level-townie-mechanic = Городские мастерские
+id-card-access-level-townie-bartender = Городская таверна
+id-card-access-level-townie-reporter = Городская студия
+id-card-access-level-townie-inn1 = Номер таверны #1
+id-card-access-level-townie-inn2 = Номер таверны #2
+id-card-access-level-townie-inn3 = Номер таверны #3
 
-id-card-access-level-vault-overseer = Vault Office
-id-card-access-level-vault-security = Vault Brig
-id-card-access-level-vault-medical = Vault Medbay
-id-card-access-level-vault-engineer = Vault Maint.
-id-card-access-level-vault-dweller = Vault Basic
+id-card-access-level-vault-overseer = Кабинет смотрителя
+id-card-access-level-vault-security = Тюрьма Убежища
+id-card-access-level-vault-medical = Медотсек Убежища
+id-card-access-level-vault-engineer = Техтоннели Убежища
+id-card-access-level-vault-dweller = Общие зоны Убежища
 
-id-card-access-level-tribe-member = Tribe's Gate
-id-card-access-level-tribe-chief = Chief's Lock
+id-card-access-level-tribe-member = Ворота племени
+id-card-access-level-tribe-chief = Покои вождя
 
-id-card-access-level-caravan-guard = Blue Line
+id-card-access-level-caravan-guard = Голубая линия
 
-id-card-access-level-waste-chaplain = Church
-id-card-access-level-waste-farmer = Farmhouse
+id-card-access-level-waste-chaplain = Церковь
+id-card-access-level-waste-farmer = Ферма
 
-id-card-access-level-ncr-lt = NCRA Office
-id-card-access-level-ncr-ranger = NCRR Post
-id-card-access-level-ncr-sgt = NCRA Armory
-id-card-access-level-ncr-medic = NCRA Labs
-id-card-access-level-ncr = NCRA Gates
+id-card-access-level-ncr-lt = Офис НКР
+id-card-access-level-ncr-ranger = Пост рейнджеров НКР
+id-card-access-level-ncr-sgt = Оружейная НКР
+id-card-access-level-ncr-medic = Лаборатории НКР
+id-card-access-level-ncr = Ворота НКР
 
-id-card-access-level-midwest-paladin-commander = MBoS Office
-id-card-access-level-midwest-paladin = MBoS Suits
-id-card-access-level-midwest-knight = MBoS Armory
-id-card-access-level-midwest-scribe = MBoS Labs
-id-card-access-level-midwest = MBoS Gates
+id-card-access-level-midwest-paladin-commander = Офис Братства (Средний Запад)
+id-card-access-level-midwest-paladin = Скафандры Братства
+id-card-access-level-midwest-knight = Оружейная Братства
+id-card-access-level-midwest-scribe = Лаборатории Братства
+id-card-access-level-midwest = Ворота Братства
 
-id-card-access-level-washington-commander = WBoS Office
-id-card-access-level-washington-paladin = WBoS Suits
-id-card-access-level-washington-knight = WBoS Armory
-id-card-access-level-washington-scribe = WBoS Labs
-id-card-access-level-washington-initiate = WBoS Gates
+id-card-access-level-washington-commander = Офис Братства (Вашингтон)
+id-card-access-level-washington-paladin = Скафандры Братства
+id-card-access-level-washington-knight = Оружейная Братства
+id-card-access-level-washington-scribe = Лаборатории Братства
+id-card-access-level-washington-initiate = Ворота Братства

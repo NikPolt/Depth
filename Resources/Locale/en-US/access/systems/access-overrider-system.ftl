@@ -1,9 +1,8 @@
-access-overrider-window-privileged-id = Privileged keys:
-access-overrider-window-eject-button = Eject
-access-overrider-window-insert-button = Insert
-access-overrider-window-target-label = Connected lock:
-access-overrider-window-no-target = No connected lock
-access-overrider-window-missing-privileges = Access to this lock cannot be modified. The inserted key is missing the following privileges:
-access-overrider-cannot-modify-access = You do not have sufficient privileges to modify this lock!
-access-overrider-out-of-range = The connected lock is too far away
-
+access-overrider-window-privileged-id = Привилегированные ключи:
+access-overrider-window-eject-button = Извлечь
+access-overrider-window-insert-button = Вставить
+access-overrider-window-target-label = Подключенный замок:
+access-overrider-window-no-target = Нет подключенного замка
+access-overrider-window-missing-privileges = Доступ к этому замку нельзя изменить. Вставленный ключ не имеет следующих привилегий:
+access-overrider-cannot-modify-access = У вас недостаточно прав для изменения этого замка!
+access-overrider-out-of-range = Подключенный замок слишком далеко
